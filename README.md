@@ -99,8 +99,8 @@ The chips update as futures complete, visually proving that clauses finish out o
 ### 2. Clone and set up a virtual environment
 
 ```bash
-git clone https://github.com/adibgpt/Law-agent
-cd Law-agent
+git clone https://github.com/Keko787/Legislative-Equalizer
+cd Legislative-Equalizer
 
 python3 -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
