@@ -1,0 +1,3592 @@
+EX-10.1
+2
+a10-9899_1ex10d1.htm
+EX-10.1
+
+Exhibit 10.1
+
+Date: 21 April 2010
+
+Ascot
+Environmental Limited
+
+UK
+Capital Ventures Holdings Limited
+
+Waste2Energy
+Engineering Limited
+
+Waste2Energy
+Group Holdings PLC
+
+Waste2Energy
+Technologies International Limited
+
+Master Supply Agreement
+
+Field
+Fisher Waterhouse LLP 35 Vine Street London EC3N
+2AA
+
+Contents
+
+No
+
+Heading
+
+Page
+
+Clauses
+
+1.
+
+Definitions and Interpretation
+
+2
+
+2.
+
+Scope of this Agreement
+
+8
+
+3.
+
+Services
+
+9
+
+4.
+
+Licence
+
+9
+
+5.
+
+Term
+
+12
+
+6.
+
+Forecasts
+
+12
+
+7.
+
+Ordering Procedures
+
+12
+
+8.
+
+The Supplier’s Responsibilities
+
+14
+
+9.
+
+Charges and the Terms of
+Payment
+
+16
+
+10.
+
+Commissioning
+
+18
+
+11.
+
+Delivery
+
+20
+
+12.
+
+Title and Risk
+
+21
+
+13.
+
+Insurance
+
+22
+
+14.
+
+Liquidated
+Damages
+
+23
+
+15.
+
+Intellectual
+Property
+
+24
+
+16.
+
+Limitation of
+liability
+
+24
+
+17.
+
+Force Majeure
+
+25
+
+18.
+
+Termination
+
+26
+
+19.
+
+Obligations on Termination
+
+27
+
+20.
+
+Survival of Obligations on Termination
+
+27
+
+21.
+
+Assignment and Sub-Contracting
+
+28
+
+22.
+
+Confidentiality
+
+29
+
+23.
+
+No Partnership
+
+30
+
+i
+
+24.
+
+Invalidity
+
+30
+
+25.
+
+Notices
+
+31
+
+26.
+
+Variation
+
+32
+
+27.
+
+Costs
+
+32
+
+28.
+
+Waiver
+
+32
+
+29.
+
+Entire Agreement
+
+32
+
+30.
+
+Third Party Rights
+
+32
+
+31.
+
+Jurisdiction
+
+32
+
+32.
+
+Governing law
+
+33
+
+Schedule 1
+
+36
+
+Schedule 2
+
+40
+
+Schedule 3
+
+44
+
+Schedule 4
+
+46
+
+Schedule 5
+
+47
+
+Schedule 6
+
+57
+
+Schedule 7
+
+59
+
+ii
+
+THIS
+AGREEMENT is made this 21 day of April 2010
+
+BETWEEN:
+
+(1)ASCOT
+ENVIRONMENTAL LIMITED a company registered in England and Wales (Company
+Registration No. 03716462) whose registered office is at Brazennose House
+West, Brazennose Street, Manchester, M2 2FE, England) (“AEL)”;
+
+(2)UK
+CAPITAL VENTURES HOLDINGS LIMITED a company registered in England and Wales
+(Company Registration No. 03721627) whose registered office is at Regency
+House, 45-51 Chorley New Road, Bolton, Lancashire BL1 4QR (“UCVHL”);
+
+together the “Purchaser” and
+
+(3)WASTE2ENERGY
+ENGINEERING LIMITED a company registered in Scotland (Company
+Registration No. SC360321) of Hestan House, Crichton Business Park,
+Bankend Road, Dumfries, DG1 4TA, United Kingdom (“WEL”);
+
+(4)WASTE2ENERGY
+GROUP HOLDINGS PLC a company registered in Isle of Man (Company
+Registration No. 003803V) whose registered office is at Stanley House,
+Lord Street, Douglas IM1 2BF (“WGH”);
+
+(5)WASTE2ENERGY
+TECHNOLOGIES INTERNATIONAL LIMITED a company registered in Isle of Man
+(Company Registration No. 003615V) whose registered office is at Stanley
+House, Lord Street, Douglas IM1 2BF (“WTIL”);
+
+together the “Supplier” and
+each of the Purchaser and Supplier is a “Party” and
+together “the Parties”.
+
+RECITALS:
+
+(A)The Purchaser comprises of
+specialist environmental engineering companies involved in construction lead
+solutions to waste and recycling issues and problems.
+
+(B)The Supplier comprises of
+companies involved in the licensing of processes and the supply of certain
+equipment for waste and energy plants.
+
+(C)The Purchaser is familiar with
+the software and equipment of the Supplier under a Gasification Contract between
+Ascot Environmental Limited and W2E (IOM) Limited dated 10 November 2008
+(the “Gasification Contract”) which has been
+entered into by all related Group companies to the Purchaser and the Supplier.
+
+(D)The Purchaser wants to design,
+build and operate waste to energy plants and to purchase certain licences,
+software, services and equipment from the Supplier on the terms and conditions
+set out in this Agreement.
+
+NOW IT
+IS AGREED as follows:
+
+1.Definitions and
+Interpretation
+
+1.1The following terms have the
+meanings set out below, unless the context requires otherwise:
+
+“Agreement”
+
+means this Agreement including its Clauses and Schedules as amended
+from time to time and includes any document (including, without limitation,
+any Order) which amends any of the terms of this Agreement;
+
+“Actual Purchase Order”
+
+means as defined in Clause 2.3;
+
+“Business Day”
+
+means any day other than a Saturday, a Sunday or a day which is a
+statutory bank holiday in England and Wales;
+
+“cBOS™”
+
+Continuous Batch Oxidisation System which is the brand used by the
+Supplier for the Equipment and Software to be supplied under this Agreement;
+
+“cBOS™ Gasification Train”
+
+means all the Equipment set out in Schedule 2;
+
+“Commencement Date”
+
+means the date of this Agreement;
+
+“Commissioning Services”
+
+means as defined in Schedule 2;
+
+“Commissioning Certificate”
+
+means the certificate confirming that the Commissioning Tests have
+been satisfied and the criteria set out in Schedule 5 have been satisfied;
+
+“Commissioning Test”
+
+means the commissioning test for the Equipment as described in Clause
+10;
+
+“Compensation Event”
+
+means one or more of the events described in
+
+2
+
+Clauses 9.8(a) to 9.8(i);
+
+“Competitor”
+
+means a Person involved in any of the design, build, financing,
+operation and maintenance of waste gasification plant or equipment;
+
+“Confidential Information”
+
+means as defined in Clause 22.1;
+
+“Construction Completion Report”
+
+has the meaning given to it in Clause 10.3;
+
+“Charges”
+
+means the fees and charges set out in Schedule 3, as adjusted in
+accordance with this Agreement;
+
+“Cross Over Ductwork”
+
+means as defined in Schedule 2;
+
+“Dargavel Take Over Certificate Date”
+
+means the date of issuing of the Take Over Certificate as defined in
+and specified in Schedule 9 of the Gasification Contract;
+
+“Delivery Date”
+
+means the date for delivery of the Equipment as set out in the Order
+as adjusted from time to time in accordance with this Agreement;
+
+“Delivery Location”
+
+means as defined in Clause 11.1;
+
+“Design Fee”
+
+means as defined in Schedule 3;
+
+“Design Services”
+
+means as defined in Schedule 2;
+
+“Disclosing Party”
+
+means as defined in Clause 22.1;
+
+“Dispute”
+
+means any dispute, issue or claim arising out of or in connection
+with this Agreement;
+
+“Equipment”
+
+means the equipment set out in Schedule 2 which is the subject of an
+Order provided by the Supplier and the Software;
+
+“Equipment Cost”
+
+has the meaning given to it in Schedule 3;
+
+“Factory Acceptance Certificate”
+
+means as defined in Clause 10.2;
+
+3
+
+“Factory Acceptance Test “
+
+means the tests described in Schedule 6;
+
+“Force Majeure Event”
+
+means as defined in Clause 17.3;
+
+“Gasification Area”
+
+the location within the Waste to Energy Facility of the Primary
+Gasification Chambers;
+
+“Gasification Contract”
+
+means as defined in the recitals to this Agreement;
+
+“Group”
+
+in relation to a company means that company, its subsidiaries, its
+Holding Companies and their subsidiaries;
+
+“Holding Company”
+
+has the meaning given in section 1159 of the Companies Act 2006;
+
+“ID Fan”
+
+means the induced draft fan described in Schedule 2;
+
+“Intellectual Property Rights”
+
+include copyrights, registered designs, patents, trade marks, service
+marks, design rights (whether registered or unregistered), applications for
+any of the above, rights to extract data, trade secrets, rights of confidence
+and all other similar rights recognised in any part of the world;
+
+“Liquidated Damages”
+
+means as defined in Clause 14.1;
+
+“LIBOR”
+
+means the rate per annum being the offered rate for six month
+sterling deposits in the London interbank market;
+
+“Licence Fee”
+
+means as defined in Schedule 3;
+
+“Minimum Purchase Order”
+
+means as defined in Clause 2.1;
+
+“Month”
+
+is a reference to a period starting on one day in a calendar month
+and ending on the numerically corresponding day in the next calendar month;
+
+4
+
+“Non-Severable Improvements
+
+improvements, enhancements, modifications, or developments of the
+Intellectual Property Rights of the Supplier or any Equipment, Software,
+products or processes protected thereby which cannot be exploited without
+infringing the Intellectual Property Rights of the Supplier,;
+
+“Order”
+
+means an order for either Equipment or Services (or both) which has
+been issued and accepted in accordance with Clause 7 below, as amended from
+time to time by the Parties;
+
+“Performance Specification”
+
+means the performance specification set out in Part 1 of
+Schedule 7;
+
+“PID”
+
+means proportional integral derivative feedback loops for regulating
+process variables within the Process Control System;
+
+“Premises”
+
+means in relation to an Order, the location or locations for the
+delivery of Equipment and Software or the provision of the Services set out
+in that Order or as otherwise agreed;
+
+“Primary Gasification Chamber” or “PGC”
+
+means as defined in Schedule 2;
+
+“Process Control System”
+
+the Programmable Logic Controllers, the Process Control Panels and
+the associated software for regulating the operating parameters of the cBOS™
+Gasification Train;
+
+“Programmable Logic Controller”
+or “PLC”
+
+A microprocessor controller with a programmable memory capable of
+handling multiple inputs and outputs to control functions used primarily
+within industrial process facilities;
+
+“Process Control Panels”
+
+A metal cabinet enclosure hard wired containing industrial control
+equipment including PLCs, motor controllers, relays,
+
+5
+
+switches and auxiliary devices to automate the control process;
+
+“Project Programme Plan”
+
+means as defined in Schedule 2;
+
+“Receiving Party”
+
+means as defined in Clause 22.1;
+
+“Retail Price Index”
+
+means the All Items Retail Price Index in the United Kingdom;
+
+“SCADA”
+
+means a supervisory control and data acquisition system for real time
+display of operational signals and recording of the same;
+
+“Secondary Combustion Chamber”
+or “SCC”
+
+means as defined in Schedule 2;
+
+“Severable Improvements”
+
+any improvements, enhancements, modifications, or developments of the
+Intellectual Property Rights of the Supplier or any Equipment, Software,
+products or processes protected thereby which can be exploited without
+infringing the Intellectual Property Rights of the Supplier,;
+
+“Services”
+
+means those services set out in Schedule 2;
+
+“Site”
+
+means the location where the Waste Facilities are to be installed by
+the Purchaser as set out in an Order;
+
+“Software”
+
+means the computer software set out in Schedule 2;
+
+“Software Upgrade”
+
+means an improvement, enhancement or addition in the Software to
+improve, enhance or add to the functionality of the process;
+
+“Synthesis Gas Combustion Area”
+
+means the location within the Waste to Energy Facility of the
+Secondary Combustion Chamber or SCC;
+
+“Target Price”
+
+has the meaning given to it in Schedule 3;
+
+6
+
+“Tiger Team”
+
+means individuals provided by the Supplier as part of the Servicescomprising
+a process engineer, an electrical engineer, a software programmer and two
+assistants for the purposes of assisting in the Commissioning Test for the
+Equipment;
+
+“Unauthorised Use”
+
+means as defined in Clause 4.10;
+
+“VAT”
+
+means value added tax chargeable under the Value Added Taxes Act 1994
+and any similar replacement or additional tax; and
+
+“Waste Facilities”
+
+means the facilities for converting waste to energy to be designed,
+built, financed, operated and maintained by the Purchaser.
+
+1.2References in this Agreement to
+any enactment, act, order, regulation or other similar instrument are to be
+construed as a reference to that enactment, act, order, regulation or
+instrument as amended by any subsequent enactment, order, regulation or
+instrument or as contained in any subsequent re-enactment of it.
+
+1.3The headings in this Agreement
+are for ease of reference only and in no way affect the interpretation of this
+Agreement.
+
+1.4In the event of any conflict
+or inconsistency between any provision contained in this Agreement and any
+provision contained in any Order, the terms of the Order will prevail, but only
+to resolve that conflict or inconsistency.
+
+1.5The singular includes the
+plural and vice versa, and reference to any gender includes the other genders.
+
+1.6References to a “Person”
+includes bodies corporate and unincorporated associations of persons.
+
+1.7References to this Agreement
+or any other agreement or document are to this Agreement or such other
+agreement or document as it may be varied, amended, supplemented, restated,
+renewed, novated or replaced from time to time.
+
+1.8References to any Party to
+this Agreement include a reference to its successors and permitted assigns
+under this Agreement.
+
+7
+
+2.Scope of this Agreement
+
+2.1The Purchaser shall in each period of
+twelve months commencing from the Dargaval Take Over Certificate Date until
+termination of the Agreement purchase two cBOS™ Gasification Trains to the
+aggregate value of at least £1.8 million which sum shall be subject to
+indexation in accordance with Clause 9.4 (“Minimum Purchase Order”)
+from the Supplier.
+
+2.2The Purchaser may also purchase up to eight
+further cBOS™ Gasification Trains and items of Equipment from the Supplier.
+
+2.3If the Equipment purchased by the Purchaser
+during each twelve month period set out
+in Clause 2.1 above (“Actual Purchase Order”) is less than the Minimum Purchase
+Order then, except to the extent the shortfall in purchases was caused by the
+Supplier’s default or by a Force Majeure Event, the Supplier shall require the
+Purchaser to pay the Supplier the difference between the Charges that the
+Purchaser would have paid the Supplier if he had ordered the Minimum Purchase
+Order (limited to the Design Fee, the License Fee and the 25% mark up on any
+costs that would have been incurred by the Supplier if the Minimum Purchase
+Order had been made) together with the cost of
+stored or dedicated materials plus the mark-up of 25% on such costs, and the Charges paid by the
+Purchaser to the Supplier for the Actual Purchase Order during each such twelve
+month period.
+
+2.4In consideration of the Supplier’s
+obligations under this Agreement, the Purchaser hereby agrees to purchase cBOS™
+Gasification Trains, and Design Services, Software and Commissioning Services
+in relation to cBOS™ Gasification Trains as well as gasification plant and
+equipment for converting waste to energy only from the Supplier for use in the
+United Kingdom and Ireland.
+
+2.5All representations, warranties,
+undertakings, agreements, covenants, indemnities and obligations made or given
+or entered into by the Purchaser (or each of AEL and UVCHL) under this
+Agreement are assumed by AEL and UCVHL jointly and severally. All
+representations, warranties, undertakings, agreements, covenants, indemnities
+and obligations made or given or entered into by the Supplier (or each of WEL,
+WGH and WTIL) under this Agreement are assumed by WEL, WGH and WTIL jointly and
+severally. Any act by or notice given by
+or event that occurs in relation to any one of such companies above comprising
+a Party shall be deemed to be an act by or notice given by or event occurring
+in relation to all such companies comprising of such Party. The giving of any
+notice under or in connection with this Agreement by one Party in respect of
+the other Party shall be deemed to be the giving of notice in respect of all of
+the companies comprising such other Party.
+
+8
+
+3.Services
+
+3.1The Purchaser will also purchase Services
+from the Supplier and the Supplier hereby agrees to supply the Services subject
+to the availability of sufficient personnel and payment by the Purchaser of the
+weekly rates set out in Schedule 3.
+
+3.2Subject to the Purchaser paying the Licence
+Fee and all other applicable charges under Schedule 3, the Supplier shall also
+provide a Process Control System including certain Software to the Purchaser
+which subject to any confidentiality provisions or licence restrictions shall
+be the latest version released by the Supplier from time to time free of charge
+for the first three years and thereafter for the charges set out in Schedule 3.
+
+3.3The Purchaser acknowledges that the
+Supplier is supplying Equipment, Services and Software only for the Waste
+Facilities and that save for the installation of the Process Control System,
+the Software relating to the Programmable Logic Controllers and the Process Control Panels and the interface of
+the Software relating to the Programmable Logic Controllers with the Process
+Control Panels, the Purchaser is responsible for all interfaces and the
+integration of the Equipment and Software into the Waste Facilities including
+all installations and interfaces up to the Process Control Panels.
+
+3.4The Purchaser shall provide all the
+additional equipment, personnel, plant and materials needed for the proper
+operation and functioning of the Waste Facilities outside the Gasification and
+Synthesis Gas Combustion areas including the plot, building, offices, yard,
+waste reception, waste heat recovery, electricity generation, recovered heat
+usage, flue gas cleaning, plant services and all grid connections as well as
+being responsible for all project design (save for the Design Services), site
+conditions, site preparation, utility and other infrastructure, permits,
+permissions and consents needed for the use and operation of the Waste
+Facilities.
+
+3.5The Supplier is a Supplier of the Equipment
+and Services only and save for the Commissioning Services and any warranties
+under Clause 8 has no operation and maintenance obligations relating to the
+Equipment, Services, Software or the Waste Facilities.
+
+4.Licence
+
+4.1Subject to payment of the Licence Fee by
+the Purchaser to the Supplier for each Order, the Supplier grants to the
+Purchaser an exclusive licence to use the Equipment and Software purchased from
+the Supplier only at the Site and for the customer notified to the Supplier by
+the Purchaser on the Order and agreed by the Supplier as part of the design,
+build and operation of Waste Facilities.
+If the ownership of the Waste Facility changes, the new owner must
+acknowledge the terms of this licence and also enter into
+
+9
+
+a written deed
+agreeing to be bound by the terms of the licence in accordance with the
+provisions of Clause 4.13 below.
+
+4.2The Supplier warrants to the Purchaser that
+so far as the Supplier is aware the Supplier owns or has all necessary rights,
+authorisations and licences in all Intellectual Property Rights in the Software
+and Equipment to enable the Supplier to supply the Equipment and Software to
+the Purchaser and to perform its obligations in accordance with this
+Agreement. However nothing in this
+Agreement shall constitute any representation that the patents (if patent
+applications) shall proceed to grant or if granted shall be valid.
+
+4.3If either Party makes any Non-Severable
+Improvements, all right, title and interest
+in such Non-Severable Improvements shall automatically vest in the Supplier
+irrespective of which Party generates the relevant Non-Severable
+Improvement. The Purchaser shall
+immediately notify the Supplier of all Non-Severable Improvements as soon as
+such Non-Severable Improvement comes into existence, and save with the Supplier’s
+prior written agreement shall keep confidential any such Non-Severable
+Improvement.
+
+4.4If either Party makes Severable
+Improvements, each Party shall grant to the other on terms to be agreed a
+licence in respect of such Severable Improvement. The Purchaser shall immediately notify the
+Supplier of all Severable Improvements as soon as such Severable Improvement
+comes into existence.
+
+4.5The Purchaser shall not copy, adapt,
+reverse engineer, decompile, disassemble or modify the Software in whole or in
+part (save only to the extent to which this cannot be precluded by section 296A
+of the Copyright, Designs and Patents Act 1988). The Purchaser may specify additions to the
+Software which in the opinion of the Supplier improve the operating
+specifications of the Software and the Supplier may include them in future
+releases of the Software.
+
+4.6The Purchaser shall have no right to assign
+the benefit or the burden of the licence in whole or in part or to the allow
+the Software to become the subject of any charge, lien or encumbrance save as
+expressly agreed with the Supplier for the purposes of financing the Waste
+Facilities.
+
+4.7The Purchaser acknowledges that the
+Intellectual Property Rights of the Supplier or any Equipment, Software,
+products or processes protected thereby are the exclusive property of the
+Supplier and that the Purchaser will not assert any claim of ownership to such
+Intellectual Property Rights or any Equipment, Software, products or processes
+protected thereby including to the goodwill or reputation thereof.
+
+4.8The Purchaser will not do any act or
+knowingly permit any act or thing to be done or carried out in derogation of
+any of the rights of the Supplier in the Intellectual Property
+
+10
+
+Rights of the
+Supplier including any Equipment, Software, products or processes protected
+thereby. Subject to having first taken
+the steps set out in Clause 18.4, the Supplier shall have the right to
+terminate this Agreement in writing should the Purchaser dispute or challenge
+the validity of the Intellectual Property Rights of the Suppler or any of the
+rights of the Supplier thereto.
+
+4.9Save for the licence granted pursuant to
+Clause 4.1, no Intellectual Property Rights in any Equipment, data, hardware,
+software, documentation, or materials provided to the Supplier or the Purchaser
+by the other Party will transfer to or be licensed to the other Party. The Parties will return all such data,
+hardware, software, documentation and materials in relation to an Order, other
+than data, hardware, software, documentation and materials for which full
+payment has been made to the Supplier by the Purchaser and which is or are
+incorporated into the Waste Facilities, to the other Party on request and, in
+any case, on the cancellation or termination of that Order or the termination
+of this Agreement. The Parties will not,
+and will procure that its agents, employees and sub-contractors do not, use or
+copy such data, hardware, software, documentation or materials for any other
+purpose other than for complying with its obligations under this Agreement or
+under any Order.
+
+4.10If the Purchaser becomes aware of any
+infringements, actual or suspected or any other unauthorised use of the Intellectual
+Property rights of the Supplier by another person (“Unauthorised
+Use”) the Purchaser shall promptly give notice to the Supplier in
+writing specifying the particulars of the Unauthorised Use. The Supplier, at its sole discretion, shall
+take whatever action it deems advisable in connection with the Unauthorised
+Use.
+
+4.11If the Supplier decides to take action of
+any kind against the Unauthorised Use, the Supplier shall have sole control of
+the conduct of any action. The Supplier
+shall bear the entire cost and expense associated with the conduct of any such
+action and any recovery or compensation that may be awarded as a result of such
+action, including but not limited to any settlement that may be reached, shall
+belong to the Supplier. The Purchaser, if called upon in writing by the
+Supplier, shall co-operate fully with the Supplier in the conduct of any such
+action.
+
+4.12The Purchaser acknowledges that the
+Supplier for the purposes of notified Software upgrades, preventative
+maintenance remote monitoring, fault diagnosis and service support will need
+the ability to communicate remotely with the Software at all times and the
+Purchaser will facilitate such communication including through the provision of
+a dedicated internet connection as required pursuant to Part 2 of Schedule
+7. The Purchaser will give the Supplier
+7 prior days written notice of any works that may affect such communication
+including shutting down the Process Control Panels or interrupting the internet
+line to the Software.
+
+11
+
+4.13The Purchaser may grant a sub-licence of
+this licence with the consent of the Supplier not to be unreasonably withheld
+to the customer and for the specific Site notified by the Purchaser in Clause
+4.1 provided such customer is not a Competitor carrying out business in
+competition with or similar in nature to that of the Supplier. The Purchaser shall ensure that the
+sub-licensor signs a written deed agreeing to be bound by the terms of this
+Licence. If the Sub-licensor breaches
+the terms of the sub-licence or the Licence both the Licence and the
+sub-licence shall terminate. Continuing
+obligations on termination under Clauses 19 and 20 of this Agreement shall
+apply to both the Purchaser and any sub-licencee.
+
+5.Term
+
+5.1This Agreement comes into effect on the
+date of this Agreement and continues in force for fifteen years unless
+terminated in accordance with Clause 18 below.
+
+5.2On termination of this Agreement, all
+outstanding Orders and the Licence in Clause 4 will also terminate.
+
+6.Forecasts
+
+6.1During the Term, the Purchaser shall give the Supplier
+not less than 5 Business Days before the beginning of each quarter, a forecast
+of the Equipment and Services it expects to purchase during the twelve months
+following that month. The first forecast
+shall be supplied on the Commencement Date.
+
+6.2Forecasts shall be given in
+writing or, if given orally, shall be confirmed in writing within two Business
+Days. The Purchaser shall act in good faith when forecasting its requirements
+for Equipment.
+
+6.3Forecasts provided under
+this Clause 6 shall not constitute Orders.
+
+6.4If the Supplier
+anticipates that it will be unable to meet the Purchaser’s forecasted
+requirements provided in accordance with this Clause 6, the Supplier shall inform the
+Purchaser in writing as soon as practicable.
+
+7.Ordering Procedures
+
+7.1The Purchaser shall provide not less than 2
+months notice of Orders.
+
+7.2Each Order shall be deemed to be a separate
+offer by the Purchaser to purchase Equipment on the terms of this Agreement,
+which the Supplier shall be free to accept or decline at its absolute
+discretion save that the Supplier must act reasonably in declining any Order
+and the Supplier must accept the Minimum Purchase Order and
+
+12
+
+up to eight
+cBOS™ Gasification Trains in each period of 12 months from the Dargavel Take
+Over Certificate Date.
+
+7.3No Order shall be deemed to be accepted by
+the Supplier until the Supplier issues and signs an acceptance of the relevant
+Order.
+
+7.4Each Order shall:
+
+(a)be given in writing in the form set out in
+Schedule 1;
+
+(b)specify the type and quantity of Equipment
+ordered; and
+
+(c)specify the date by which the Order is to
+be ready for collection (Delivery Date) (which shall be at least 10 months after
+the date of deemed receipt of the Order by the Supplier); and
+
+(d)state the applicable Charges in accordance
+with those set out in Schedule 3.
+
+7.5In the event that:
+
+(a)the Supplier does not accept an Order on
+grounds that the Supplier could not have the Order ready for collection by the
+date specified in accordance with Clause 7.4(c), or
+
+(b)the Supplier defaults on its obligations to
+make the Order available by the relevant Delivery Dates,
+
+the Purchaser may have alternative
+equipment of the type referred to in Schedule 2 manufactured and supplied by
+others, providing:
+
+(c)the alternative equipment so supplied is of
+a standard equal to or better than the Equipment which would have been provided
+by the Supplier had the relevant Order been accepted by the Supplier; and
+
+(d)the Supplier is paid its mark-up of 25% as
+set out in Schedule 3 on the relevant cost of equipment from alternative
+suppliers;
+
+(e)the Supplier shall have no liability
+whatsoever for equipment or services provided by others.
+
+Further, it shall be a condition of the
+Purchaser exercising its entitlement pursuant to this Clause 7.5 that the
+Purchaser has given the Supplier not less than 30 Business Days notice of its
+intention to procure equipment from alternative suppliers and that
+
+13
+
+the Supplier has not accepted the relevant
+Order within a further 30 Business Days of the date of receipt of such notice.
+
+7.6The Supplier shall assign an Order Number
+to each Order it accepts and notify such Order Numbers to the Purchaser
+together with the date which the Order will be ready for collection (“Delivery Date”). Each Party shall use the relevant Order
+Number in all subsequent correspondence relating to the Order.
+
+7.7The Purchaser may within 120 days of
+placing an Order amend or cancel an Order by written notice to the Supplier. If
+the Purchaser amends or cancels an Order, its liability to the Supplier shall
+be limited to payment to the Supplier of the Licence Fee and all costs reasonably
+incurred by the Supplier including sub-contractors or third party costs plus a
+mark up of 25% of such costs in fulfilling the Order up until the date of
+receipt of the amendment or cancellation.
+
+7.8The Parties hereby agree that if W2E
+creates variations or enhancements in design to the cBOS™ Gasification Trains
+to overcome a defect, improve performance or operations or otherwise, then the
+Supplier may at its option supply cBOS™ Gasification Trains with such
+variations or enhancements provided that such CBOS™ Gasification Trains meet
+similar performance specifications to those in the Order.
+
+8.The Supplier’s Responsibilities
+
+8.1In consideration of payment by the
+Purchaser, the Supplier shall regularly and diligently carry out and complete
+the manufacture and supply of the Equipment and provide the Services.
+
+8.2All Equipment and Services provided by the
+Supplier shall be manufactured and carried out with sound workmanship and
+materials, safety and in accordance with good engineering practice, and applicable
+law.
+
+8.3Subject to the Purchaser performing its
+obligations under this Agreement including responsibility for relevant
+interfaces and the proper functioning of the rest of the Waste Facilities, the
+Equipment shall comply with the requirements of the Supplier set out in
+Schedule 7.
+
+8.4The Supplier shall at all times have and
+maintain adequate resources available for the proper and timely provision of
+the Equipment and the Services, including financial resources, and competent,
+appropriately experienced and physically capable staff and labour whether
+employed by the Supplier or any third parties appointed by the Supplier in
+respect of its obligations under this Agreement.
+
+14
+
+8.5The Supplier shall obtain and maintain in
+force for the Term all licences, permissions, authorisations, consents and
+permits needed to supply the Equipment in accordance with the terms of this
+Agreement.
+
+8.6
+
+(a)The Purchaser shall have the right to enter
+the Supplier’s premises to inspect the Equipment and the Supplier shall seek to
+facilitate inspection of any manufacturing facilities owned by sub-contractors
+to the Supplier for the Equipment.
+
+(b)Inspections carried out pursuant to Clause
+8.6 shall be carried out during business hours on reasonable notice to the
+Supplier.
+
+(c)The Supplier shall perform the Factory
+Acceptance Test as set out in Schedule 6 prior to delivery of the Equipment
+from the Premises during business hours at such time as is notified to the
+Purchaser by the Supplier. The Supplier
+will then issue to the Purchaser a Factory Acceptance Certificate.
+
+(d)If following any inspection the Purchaser
+reasonably considers that the Equipment is not or is not likely to be as
+provided under this Clause 8, the Purchaser shall inform the Supplier and the
+Supplier shall take such action as is necessary to ensure that the Equipment is
+or will be as provided under this Clause 8.
+The Purchaser shall have the right to re-conduct inspections after the
+Supplier has carried out its remedial actions.
+
+(e)The Supplier together with any actual or
+potential customers of the Supplier shall also have the right on 14 days notice
+to inspect the Waste Facilities and any Equipment and Software supplied to the
+Purchaser under this Agreement.
+
+8.7In relation to any defects in design,
+materials and workmanship under this Clause, the Supplier shall have a 12 month
+defects notification period from the Delivery Date in which to repair any
+defects in design, materials and workmanship notified by the Purchaser to the
+Supplier which shall be the sole remedy of the Purchaser for such defects. If during such defects notification period
+the Purchaser gives notice of a defect (setting out the particulars of such
+alleged defect), the Supplier shall as soon as reasonably practicable make good
+the defect so notified and the Purchaser shall so far as may be necessary place
+the Equipment at the Supplier’s disposal for this purpose.
+
+8.8If a defect notified by the Purchaser
+pursuant to Clause 8.7 arises from any breach by the Supplier of this
+Agreement, the Supplier shall bear his own cost of making good such
+defect. In all other cases, the defect
+shall be rectified at the Purchaser’s expense.
+
+15
+
+8.9If the Supplier fails to remedy a defect
+notified pursuant to Clause 8.7 which arises from any breach by the Supplier of
+this Agreement then the Purchaser may, on giving not less that 14 days written
+notice to the Supplier, procure the rectification of such defect by a third
+party.
+
+8.10The Supplier hereby agrees to use
+reasonable skill and care in performing its obligations under this Agreement.
+
+8.11In consideration of the Purchaser’s
+obligations under this Agreement, the Supplier hereby agrees for the duration
+of this Agreement not to sell cBOS™ Gasification Trains for use in the UK and
+Ireland to Biffa Ltd, Fomento de Construcciones Y Contratas S.A., Sita UK Ltd,
+Shanks Group plc and Viridor Ltd.
+
+9.Charges and the Terms of Payment
+
+9.1The Charges for the Equipment and/or the
+Services from the Commencement Date to 31 December 2010 are set out in
+Schedule 3.
+
+9.2The Charges for the
+Equipment are exclusive of amounts in respect of VAT. The Purchaser shall, on
+receipt of a valid VAT invoice from the Supplier, pay to the Supplier such
+additional amounts in respect of VAT as are chargeable on a supply of Equipment
+or Services.
+
+9.3The Charges for the
+Equipment are exclusive of the costs of packaging, insurance, loading and carriage of the Equipment, which is the
+responsibility of the Purchaser and shall be paid by the Purchaser save where
+the Supplier and Purchaser agree a charge for delivery of certain items of
+Equipment by the Supplier and the Supplier expressly agrees in writing to
+supply Equipment to the Premises of the Purchaser.
+
+9.4The Parties agree that the Charges will be
+increased on 31 December each year by any increase in value of the Retail
+Price Index in the previous 12 month period.
+
+9.5The Supplier will invoice the Purchaser in
+accordance with the payment schedule specified in the relevant Order. Invoices shall include the following
+information:
+
+(a)a description of the Services performed
+and/or the Equipment provided under each Order and the Order number;
+
+(b)an itemised statement of any costs and
+expenses claimed under the invoice with supporting receipts;
+
+(c)the total Charges payable under the
+invoice; and
+
+16
+
+9.6Unless otherwise agreed in the payment
+schedule in the Order and save for the Licence Fee and Design Fee which are
+payable at the times set out in Schedule 3, invoices shall be sent by the
+Supplier to the Purchaser on a monthly basis for actual costs incurred by the
+Supplier in relation to the Order including:
+
+(a)the cost of labour and of materials or
+Equipment delivered to the Site during the period covered by the invoice plus
+the mark up of 25% as set out in Schedule 3 (provided always that the total
+amount invoiced for Equipment in respect of each Order shall not exceed the
+Equipment Costs as adjusted in accordance with Clause 9.7); and
+
+(b)where Equipment has been delievered to
+Site, any balance of the relevant part of the Equipment Cost not already
+invoiced pursuant to Clause 9.6(a)
+
+(the “Invoiced Amount”).
+
+The Supplier’s invoice shall be sent to the
+Purchaser not later than the 6th day of each calendar month. The Purchaser shall promptly review the
+Supplier’s invoice and shall give notice to the Supplier of any disputed items
+(“Disputed Items”) not later than the
+10th day of the relevant month setting out the amount in dispute and the reason
+or reasons for such amounts being disputed, and the parties shall use all
+reasonable endeavours to seek resolve such dispute. Save in respect of any Disputed Items which
+are not so resolved at the relevant time the Supplier’s invoice shall after the
+10th day of the relevant calendar month become conclusive as to the Supplier’s
+entitlement to payment in respect of the relevant invoice and such amount shall
+be paid to the Supplier not later than the 30th day of the relevant calendar
+month (or the 28th day where the relevant calendar month is February). For the purpose of this Clause 9.6, where any
+of the dates referred to falls on a non-Business Day then the relevant date
+shall be deemed to be the first Business Day immediately after such date.
+
+9.7If the Purchaser fails to pay the Supplier
+by the due date in accordance with the terms of this Agreement and the Order,
+the Purchaser shall pay interest on the sum from the due date until the date
+upon which the obligation of the Purchaser to pay the sum is discharged at the
+rate 3% per annum above LIBOR compounded quarterly.
+
+9.8Adjustment to the Charges
+
+Without prejudice to any other of the
+Supplier’s rights and remedies in accordance with or in relation to this
+Agreement, in the event that:
+
+(a)the Purchaser instructs and the Supplier
+accepts any change, variation or amendment to the Order or the terms thereof;
+
+17
+
+(b)the Purchaser breaches or
+fails to perform any of its obligations under this Agreement;
+
+(c)the Purchaser issues any
+instruction to suspend or delay the performance by the Supplier of any of the
+Supplier’s obligations under this Agreement;
+
+(d)the Purchaser withholds any
+acceptance or approval for a reason not stated in this Agreement;
+
+(e)the Purchaser instructs the
+Supplier to search for or remedy a defect in the Equipment or Software and no
+defect is found;
+
+(f)a test or inspection which the
+Purchaser is responsible for performing or procuring the performance of causes
+unnecessary delay;
+
+(g)the Supplier encounters
+conditions which an experienced Supplier would have judged at the date of this
+Agreement had such a small chance of occurring that it would have been
+unreasonable for the Supplier to have allowed for them in the Charges;
+
+(h)any change in law applicable
+to the performance by the Supplier of its obligations under this Agreement
+which increases the cost of performance thereof; and/or
+
+(i)an event occurs which stops or
+delays the Supplier in performing its obligations under this Agreement or in
+relation to any Order or makes the same more costly to perform, which the
+Supplier could not reasonably prevent,
+
+(each a “Compensation
+Event”)
+
+then the Equipment Cost and/or other
+Charges in respect of any affected Order shall be increased to reflect any
+additional cost, loss or expense attributable to the relevant Compensation
+Event, calculated as the actual cost thereof reasonably and demonstrably
+incurred plus a mark up of 25% and the Equipment Cost and/or other Charges
+shall be adjusted accordingly.
+
+10.Commissioning
+
+10.1The Supplier will provide the
+Purchaser with operational manuals, maintenance manuals and training manuals
+relating to the Equipment.
+
+10.2The Supplier will carry out
+its standard tests on the Equipment as described in Schedule 6 before delivery
+to the Purchaser (“Factory Acceptance Test”) and,
+on
+
+18
+
+request by the Purchaser, will provide the
+Purchaser with a certificate that the Equipment has passed those tests (“Factory Acceptance Certificate”).
+
+10.3After the Equipment which is
+the subject of an Order has been fully installed and integrated by the
+Purchaser into the Waste Facilities, the Purchaser shall provide the Supplier
+with a report to the satisfaction of the Supplier confirming completion of the
+construction works at the Premises to which the Order relates (the “Construction Completion Report”), and the Supplier will
+carry out Commissioning Tests on that Equipment as set out in and in accordance
+with Schedule 5.
+
+10.4The Supplier shall give the
+Purchaser not less than 5 Business Days notice of the date, time and location
+of each of the tests forming the Commissioning Tests. If the Purchaser fails to attend at any time
+or place duly appointed for the carrying out of any Commissioning Tests, the
+Supplier shall be entitled to proceed in the Purchaser’s absence and the
+relevant Commissioning Tests shall be deemed to have been performed in the
+presence of the Purchaser. The Supplier
+shall provide the Purchaser with duly certified copies of the results of the
+Commissioning Tests.
+
+10.5If the Equipment the subject
+of an Order fails to pass the relevant Commissioning Tests, the Supplier shall
+repeat those tests and if such tests are failed again the Supplier shall take
+whatever steps may be necessary to enable the Equipment to pass the
+Commissioning Tests and shall thereafter repeat them, unless any time limit
+specified in the Order for the passing thereof shall have expired, in which
+case the Purchaser shall be entitled on giving notice to the Supplier to reject
+the relevant part of the Equipment.
+
+10.6The Purchaser acknowledges
+that it needs the assistance of the Supplier’s Tiger Team for the purposes of
+the Commissioning Test and hereby agrees to order and pay for their services
+for at least a period of 30 Business Days to assist with the Commissioning Test
+in respect of each Order. If more time
+is needed to undertake the Commissioning Test and until the Commissioning Tests
+have been passed, the Purchaser shall order and pay for the services of the
+Tiger Team for such additional period.
+However after the initial 30 Business Day period referred to above, if
+the Tiger Team is still required as the Commissioning Test has not been passed
+due to a breach of the obligations by the Supplier, this time shall be free of
+charge for up to a maximum of a further 30 Business Days.
+
+10.7If the Purchaser fails to give
+notice of rejection in accordance with Clause 10.5, it shall be deemed to have
+accepted such Equipment. If the
+Purchaser does not permit the Commissioning Tests to take place within 3 months
+of Delivery or does not complete those parts of the Commissioning Tests for which
+the Purchaser is responsible, the Commissioning Tests will be deemed to be
+passed and the Purchaser to have accepted the Equipment.
+
+19
+
+10.8If the Purchaser rejects
+Equipment under Clause 10.5 then the Purchaser shall be entitled to require the
+Supplier to repair or replace the rejected Equipment. Once the Supplier has complied with the
+Purchaser’s request, it shall have no further liability to the Purchaser in
+respect of the rejected Equipment’ failure to comply with this Clause 10.
+
+10.9The terms of this Agreement
+shall apply to any repaired or replacement Equipment supplied by the Supplier.
+
+10.10Subject to payment of the charges set out
+in Schedule 3 by the Purchaser, the Supplier will also provide monthly
+inspections and reports of the Equipment during the construction of the Waste
+Facilities by the Purchaser without further charge to the Purchaser on the
+basis that the Supplier has no liability to the Purchaser or any third party
+arising out of or in connection with such inspections or reports.
+
+10.11The Supplier hereby agrees to supply the
+Purchaser with Software Upgrades for any Software provided by the Supplier from
+time to time and free of charge for the first three years from the Commencement
+Date. Thereafter, the Supplier will
+charge the Purchaser for such Software
+Upgrades on such terms to be agreed.
+
+10.12The Supplier’s Equipment shall only be used
+by the Purchaser on the Gasifcation Area and Synthesis Gas Combustion Areas of
+the Waste Facilities and the Supplier shall have no responsibility for any
+matters whether as part of the Commissioning Tests or otherwise outside these
+areas.
+
+11.Delivery
+
+11.1The Purchaser shall collect
+each Order from the Supplier’s premises or such other premises notified in
+writing by the Supplier in the UK (“Delivery Location”)
+within 14 Business Days of the Supplier notifying the Purchaser in writing that
+the Order is ready for collection.
+However, subject to prior approval of the Supplier, the Supplier will
+arrange external storage for up to 21 Business days from the above
+notification.
+
+11.2Delivery of an Order shall be
+completed when the Supplier places the Order at the Purchaser’s disposal at the
+Delivery Location.
+
+11.3The sole and exclusive remedy
+for delay shall be Liquidated Damages calculated in accordance with Clause 14
+and Schedule 4. Delays in the delivery of an Order shall not entitle the
+Purchaser to:
+
+(a)refuse to take delivery of the
+Order; or
+
+(b)claim damages other than
+Liquidated Damages; or
+
+20
+
+(c)terminate this Agreement.
+
+The Supplier shall have no liability for
+any failure or delay in delivering an Order to the extent that such failure or
+delay is caused by the Purchaser’s failure to comply with its obligations under
+this Agreement. Further the Supplier’s
+liability for Liquidated Damages shall cease in the event that and as from the
+time that the Purchaser elects to exercise any entitlement to have Equipment
+provided by others pursuant to Clause 7.5.
+
+11.4If the Purchaser fails to take
+delivery of an Order on the Delivery Date then, except where such failure or
+delay is caused by the Supplier’s failure to comply with its obligations under
+this Agreement:
+
+(a)delivery of the Order shall be
+deemed to have been completed at 9.00am on the fourteenth Business Day
+following the day on which the Supplier notified the Purchaser that the Order
+was ready for collection; and
+
+(b)the Supplier shall store the
+Order until delivery takes place, and charge the Purchaser for all related
+costs and expenses (including insurance).
+
+11.5Each Order shall be
+accompanied by a delivery note from the Supplier showing the Order Number and
+the date of the Order.
+
+11.6If the Parties agree and
+subject to acceptable payment to the Supplier, the Supplier may agree to an
+alternative Delivery Location which may include the premises of the Purchaser.
+
+12.Title and Risk
+
+12.1Risk in Equipment shall pass
+to the Purchaser on Delivery.
+
+12.2Title to Equipment shall not
+pass to the Purchaser until the Supplier has received payment in full (in cash
+or cleared funds) for:
+
+(a)such Equipment; and
+
+(b)all other sums which are or
+which become due to the Supplier from the Purchaser.
+
+12.3Until title to Equipment has
+passed to the Purchaser, the Purchaser shall:
+
+(a)hold such Equipment on a
+fiduciary basis as the Supplier’s bailee;
+
+21
+
+(b)store such Equipment
+separately from all other goods held by the Purchaser so that they remain
+readily identifiable as the Supplier’s property;
+
+(c)not remove, deface or obscure
+any identifying mark or packaging on or relating to such Equipment; and
+
+(d)maintain such Equipment in
+satisfactory condition and keep it insured on the Supplier’s behalf for their
+full price against all risks with an insurer that is reasonably acceptable to
+the Supplier. The Purchaser shall obtain an endorsement of the Supplier’s
+interest in the Equipment on its insurance policy, subject to the insurer being
+willing to make the endorsement. On request the Purchaser shall allow the
+Supplier to inspect such Equipment and the insurance policy.
+
+12.4If before title to Equipment
+passes to the Purchaser the Purchaser becomes subject to any of the events in
+Clause 18.1(c) to Clause 18.1(f) then, without limiting any other
+right or remedy the Supplier may have, the Supplier may at any time require the
+Purchaser to deliver up such Equipment or enter any premises of the Purchaser
+or of any third party where the relevant Equipment is stored in order to
+recover it.
+
+13.Insurance
+
+13.1During this Agreement the
+Supplier shall maintain in force the following insurance policies with
+reputable insurance companies:
+
+(a)public liability insurance
+with a limit of at least £10 million per claim;
+
+(b)professional indemnity
+insurance with a limit of at least £5 million in aggregate; and
+
+(c)product liability insurance
+with a limit of at least £5 million for claims arising from a single event or
+series of related events in a single calendar year,
+
+provided such insurance remains available
+in the European insurance market at commercially reasonable rates to parties
+carrying out business equivalent to that of the Supplier.
+
+13.2On taking out and on
+renewing each policy, the Supplier shall promptly send a copy of the receipt
+for the premium to the Purchaser. On the Purchaser’s written request, the
+Supplier shall provide the Purchaser with copies of the insurance policy
+certificates and details of the cover provided.
+
+13.3The Supplier shall
+ensure that any sub-contractors also maintain adequate insurance
+
+22
+
+having regard to their obligations under
+their respective sub-contracts and the Supplier’s obligations under this
+Agreement.
+
+13.4The Supplier shall
+notify the Purchaser if any policy is (or will be) cancelled its terms are (or
+will be) subject to any material change or such insurance is no longer
+available at commercially reasonable rates for the purpose of Clause 13.1.
+
+13.5The Supplier’s
+liabilities under this Agreement shall not be deemed to be released or limited
+by the Supplier taking out the insurance policies referred to in Clause 13.1.
+
+13.6During this Agreement, in
+respect of each Order the Purchaser shall maintain in force or procure the
+maintenance of a “construction all risks” insurance policy with cover no less
+than the full reinstatement of the value of the Waste Facilities constructed in
+respect of each Order (including the value of the Equipment) providing cover
+against any physical loss or damage to the Equipment and any work executed in
+respect of the project and against the reasonable cost of the removal and
+disposal of debris and of any shoring and propping of the works which results
+from such physical loss or damage but excluding the cost necessary to repair,
+replace or rectify loss or damage arising from any Force Majeure Event.
+
+14.Liquidated Damages
+
+14.1If delivery is not made on the
+Delivery Date due to the default of the Supplier, the Supplier shall be
+permitted up to two extensions to the Delivery Date each of not less the 30
+Business Days in duration and the Delivery Date shall be adjusted accordingly,
+after which the Purchaser may require the Supplier to pay the Purchaser
+Liquidated Damages as set out in Schedule 4 (“Liquidated
+Damages”).
+
+14.2The maximum payment of
+Liquidated Damages for any item of Equipment shall not exceed 10% of the
+Charges (calculated in accordance with Schedule 3) for such item of Equipment
+only (excluding any Licence Fee and Design Fee and not for those items of
+Equipment which have been delivered on their Delivery Date or for which the
+Delivery Date has not been reached).
+
+14.3Any Liquidated Damages payable
+by the Supplier shall be the Purchaser’s sole and exclusive remedy in relation
+to the failure to deliver the Equipment on the Delivery Date and all such
+Liquidated Damages shall be taken into account in relation to the amount of the
+limit on liability in Clause 16.4 and any other damages which the Purchaser may
+seek to recover from the Supplier in respect of such Equipment.
+
+14.4The Parties hereby acknowledge
+and agree that the rate of liquidated damages specified in Schedule 4 is a
+genuine pre-estimate of the loss likely to be suffered by
+
+23
+
+the Purchaser in the event of any delay by
+the Supplier in providing the Equipment to the Purchaser.
+
+15.Intellectual Property
+
+15.1The Supplier shall be
+liable to the Purchaser for all liabilities, costs, expenses, damages and
+losses suffered or incurred by the Purchaser arising out of or in connection
+with any claim made against the Purchaser for actual or alleged infringement of
+a third party’s Intellectual Property Rights arising out of or in connection
+with the supply or use of the Equipment.
+
+15.2Nothing in this Clause
+shall restrict or limit the Purchaser’s general obligation at law to mitigate a
+loss which it may suffer or incur as a result of a matter that may give rise to
+a claim under this Clause 15.
+
+16.Limitation of liability
+
+16.1This Clause sets out
+the entire financial liability of the Parties (including any liability for the
+acts or omissions of their respective employees, agents and subcontractors) to
+each other in respect of:
+
+(a)any breach of this Agreement
+or any Order including any deliberate breach of this Agreement or any Order by
+a Party, or its employees, agents or subcontractors;
+
+(b)any use made or resale of the
+Equipment by the Purchaser, or of any product incorporating any of the
+Equipment; and
+
+(c)any representation, statement
+or tortious act or omission (including negligence) arising under or in
+connection with this Agreement,
+
+save in respect of claims under Clause
+15 for
+which liability shall be unlimited.
+
+16.2Nothing in this
+Agreement shall limit or exclude the liability of either Party for:
+
+(a)death or personal injury
+resulting from negligence; or
+
+(b)fraud or fraudulent
+misrepresentation; or
+
+(c)breach of the terms implied by
+section 12 of the Sale of Goods Act 1979; or
+
+(d)breach of section 2 of the
+Consumer Protection Act 1987.
+
+24
+
+16.3Without prejudice to
+Clause 16.2, neither Party shall be liable to the other, whether in contract,
+tort (including negligence) or restitution, or for breach of statutory duty or
+misrepresentation, or otherwise, for any:
+
+(a)loss or corruption of data or
+information; or
+
+(b)special, indirect or
+consequential damage
+
+suffered
+by the other Party that arises under or in connection with this Agreement.
+
+16.4Without prejudice to Clause
+16.2 or Clause 16.3, the Supplier’s total liability arising under or in
+connection with this Agreement (including any liability in respect of
+Liquidated Damages pursuant to Clause 14 and Schedule 4), whether arising in
+contract, tort (including negligence) or restitution, or for breach of
+statutory duty or misrepresentation, or otherwise, shall be limited to 5% of
+the amounts paid to the Supplier by the Purchaser during the previous 12 month
+period immediately prior to any claim.
+For the purposes of calculating the amounts paid to the Supplier in the
+previous 12 month period the Licence Fee and the Design Fee shall not be
+included.
+
+17.Force Majeure
+
+17.1Neither Party (or any
+person acting on its behalf) shall have any liability or responsibility for
+failure to fulfil any obligation under this Agreement so long as and to the
+extent to which the fulfilment of such obligation is prevented, frustrated,
+hindered or delayed as a consequence of a Force Majeure Event.
+
+17.2A Party claiming the
+benefit of this provision shall, as soon as reasonably practicable after the
+occurrence of a Force Majeure Event:
+
+(a)notify the other Party of the
+nature and extent of such Force Majeure Event; and
+
+(b)use all reasonable endeavours
+to remove or reduce the effect of any such causes and resume performance under
+this Agreement as soon as feasible.
+
+17.3For the purposes of this
+Agreement, a force majeure event means an event beyond the control of a Party
+(or any person acting on its behalf), which by its nature could not have been
+foreseen by such Party (or such person), or, if it could have been foreseen,
+was unavoidable, and includes, without limitation, acts of God, storms, floods,
+riots, fires, sabotage, civil commotion or civil unrest, interference by civil
+or military authorities, acts of war (declared or undeclared) or armed
+hostilities or other national or international calamity or one or more acts of
+terrorism or failure of energy sources (“Force Majeure Event”).
+
+25
+
+18.Termination
+
+18.1Subject to Clause
+18.4, a Party shall be entitled to terminate this Agreement and any and all
+Orders which have not been completed if the other Party:
+
+(a)fails to pay any undisputed
+amount due under this Agreement on the due date for payment; or
+
+(b)commits a material breach of
+its obligations under this Agreement; or
+
+(c)passes a resolution for
+voluntary winding up or a court of competent jurisdiction makes an order that
+such Party be wound up except for the purposes of bona fide reconstruction
+while solvent; or
+
+(d)makes a composition or
+arrangement with its creditors; or
+
+(e)has a receiver or manager or
+provisional liquidator or administrator appointed over the whole or a
+substantial part of its business or undertaking, or circumstances arise which
+would entitle a court of competent jurisdiction or a creditor to appoint the
+same; or
+
+(f)is unable to pay its debts
+within the meaning of section 123 of the Insolvency Act 1986; or
+
+(g)any Force Majeure Event
+prevents the other Party from performing its obligations under this Agreement
+for a continuous period of six months.
+
+18.2Termination of this
+Agreement shall not prejudice any of the Parties’ rights and remedies which
+have accrued as at termination.
+
+18.3In addition to the
+remedy provided pursuant to Clause 2.3, in the event that the Purchaser does
+not purchase the Minimum Purchase Order each year for a consecutive period of
+five years the Supplier may also terminate the Agreement if.
+
+18.4In the event of the occurrence
+of one of the grounds set out in Clauses 18.1(a), 18.1(b) or 4.8 then
+unless specifically provided otherwise in this Agreement:
+
+(a)the affected Party shall give
+the defaulting Party not less than ten Business Days’ notice of the occurrence
+of the event;
+
+(b)the defaulting Party shall
+within a further ten Business Days from the expiry of the period referred to in
+Clause 18.4(a) remedy the default; and
+
+26
+
+(c)in the event that the default
+is not remedied within the period referred to in Clause 18.4(b) or there
+remains a dispute as to whether a default has occurred, the Parties shall refer
+the matter to non-binding mediation in accordance with the then current CEDR
+Model Mediation Procedure or such other procedure as is agreed between the
+Parties, within 30 days thereafter ,
+
+and termination on such grounds shall not
+effective until such time as the conditions set out in this Clause 18.4 have
+been satisfied and complied with and the relevant default remains unremedied.
+
+18.5Termination on the
+grounds set out in Clauses 18.1(c), 18.1(d), 18.1(e), 18.1(f) and 18.1(g) shall
+be effective immediately on a Party having given notice to the other.
+
+19.Obligations on
+Termination
+
+On
+termination of this Agreement each Party shall promptly:
+
+(a)return to the other Party all
+equipment, materials and property belonging to the other Party that the other
+Party had supplied to it or a member of its Group in connection with the supply
+and purchase of the Equipment under this Agreement;
+
+(b)return to the other Party all
+documents and materials (and any copies) containing the other Party’s
+Confidential Information;
+
+(c)erase all the other Party’s
+Confidential Information from its computer systems (to the extent possible);
+and
+
+(d)on request, certify in writing
+to the other Party that it has complied with the requirements of this Clause.
+
+20.Survival of
+Obligations on Termination
+
+20.1The following provisions of
+this Agreement will survive its expiry or termination and continue
+indefinitely; Clauses 16, 19, 20, 22, 31 and 32.
+
+20.2The termination of this
+Agreement or the expiry or termination of any Order will not prejudice or
+affect any right of action or remedy which has already accrued to either Party.
+
+27
+
+21.Assignment and
+Sub-Contracting
+
+21.1Either Party may assign or
+transfer (including by way of novation) its rights and obligations under this
+Agreement to another member of its Group and must notify the other Party in
+writing.
+
+21.2A Party may also assign or
+transfer its rights and obligations under this Agreement to a third party with
+the prior written consent of the other Party not to be unreasonable withheld or
+delayed provided such third party is:
+
+(a) not a
+Competitor of either Party;
+
+(b) has equivalent
+technical and financial standing to the Party whose rights and/or obligations
+are being assigned or transferred to it.
+
+21.3The Purchaser agrees that the
+Supplier will have to sub-contract the manufacture and supply of the Equipment
+and some of the Services to third parties and hereby gives approval to such
+sub-contracting. The Parties also agree
+that if the Purchaser becomes aware of sub-contractors who may be able to
+provide the Equipment of the same technical standard at a cheaper cost, the Purchaser
+will notify the Supplier and propose that the Supplier appoints such
+alternative sub-contractor. However, the
+Supplier will be under no obligation to change sub-contractors unless:
+
+21.3.1such change including any
+termination of existing sub-contracts does not adversely affect the Supplier;
+
+21.3.2the alternative sub-contractor
+will supply Equipment and/or Services as applicable to the Supplier on terms
+which are acceptable to the Supplier;
+
+21.3.3the alternative sub-contractor
+meets the Supplier’s requirements in respect of financial underwriting,
+warranties, guarantees, banking and delivery underwriting;
+
+21.3.4the Supplier has completed to its
+satisfaction, full due diligence in relation to the identity, ownership and
+control of the alternative sub-contractor sufficient to discharge any relevant
+legal obligations and the Supplier, in its sole discretion, is satisfied that
+it may lawfully conduct business with the sub-contractor; and
+
+21.3.5the quality of the Equipment
+supplied by such sub-contractor is in the opinion of the Supplier of a standard
+equal to or better then the quality of Equipment supplied by existing
+sub-contractors.
+
+28
+
+22.Confidentiality
+
+22.1Confidential information for the purposes of this Agreement means
+all information disclosed (whether in writing, orally or by another means and
+whether directly or indirectly) by a Party (the “Disclosing
+Party”) to the other Party (the “Receiving
+Party”) whether before or after the date of this Agreement
+including, without limitation, information relating to the Disclosing Party’s
+products, operations, processes, plans or intentions, product information,
+know-how, design rights, trade secrets, market opportunities and business
+affairs (and including, any such information relating to any member of the Disclosing Party’s Group) (“Confidential Information”).
+
+22.2Each Party will, in relation to the Confidential Information of the
+other Party:
+
+(a)not use the Confidential Information for any purpose other than the
+performance of its obligations under this Agreement;
+
+(b)not disclose Confidential Information to a person except with the
+prior written consent of the Disclosing Party or in accordance with Clauses
+22.3 and 22.4; and
+
+(c)will make every effort to prevent the use or disclosure of
+Confidential Information other than as permitted by this Agreement.
+
+22.3During the term of this Agreement the Receiving Party may disclose
+Confidential Information to any of its directors, other officers, employees,
+agents, sub-contractors and professional advisers.
+
+22.4The Receiving Party will ensure that a Recipient is made aware of
+and complies with the Receiving Party’s obligations of confidentiality under
+this Agreement as if the Recipient was a Party to this Agreement.
+
+22.5The provisions of this Clause 22 do not apply to Confidential
+Information which:
+
+(a)is in or enters the public domain other than by a breach of this
+Agreement;
+
+(b)is obtained from a third party who is lawfully authorised to
+disclose that information;
+
+(c)is independently developed without reference to anything protected
+by this Clause 22;
+
+29
+
+(d)is authorised for release by written consent of the Disclosing Party
+or by an authorised representative of the Disclosing Party; or
+
+(e)is required to be disclosed by law or by judicial or administrative
+process in connection with any action, suit, proceeding or claim or other
+applicable law.
+
+22.6Each Party undertakes within 10 Business Days of receipt of a
+written request of the other Party or on termination of this Agreement,
+whichever is earlier, and at the option of the other Party:
+
+(a)to return the Confidential Information in its possession, custody or
+control or in the possession custody or control of any of its directors,
+officers, employees, ex-employees, agents, sub-contractors or professional
+advisors, together with all copies thereof; or
+
+(b)to destroy by shredding or incineration all documents and other
+material in its possession, custody or control which bear or incorporate any
+part of the other Party’s Confidential Information and to certify to the other
+Party that this has been done; and
+
+(c)to expunge all Confidential Information from any computer, word
+processor or similar device into which it was programmed by such Party or any
+of the Party’s directors, officers, employees, ex-employees, sub-contractors or
+professional advisors together with all copies thereof.
+
+23.No Partnership
+
+Except
+as expressly stated herein, nothing in this Agreement creates a relationship of
+agency or partnership between the Parties.
+Accordingly, except as expressly authorised in this Agreement, neither
+Party has any authority to act or make representations on behalf of the other
+Party.
+
+24.Invalidity
+
+If any
+provision of this Agreement is held invalid, illegal or unenforceable for any
+reason, that provision will be severed and the remainder of the provisions of
+this Agreement will continue in full force and effect as if this Agreement had
+been executed with the invalid provision eliminated. In the event of invalidity so fundamental as
+to prevent the accomplishment of the purpose of this Agreement, the Parties
+will immediately commence negotiations in good faith to remedy that invalidity,
+whilst achieving the purposes of this Agreement.
+
+30
+
+25.Notices
+
+25.1Any notice or other communication given under this Agreement must be
+in writing and served on a Party at its address as specified in this Clause
+25.3 (or at such other address as specified in any Order or as otherwise
+notified to the other in accordance with this Clause, or in the absence of any
+such notified address, by any other effective means) as follows: by hand; by
+first class or recorded delivery post; or by fax which is automatically
+confirmed by the sender’s fax machine to have been sent without error to the
+recipient’s fax number.
+
+25.2Notices or communications sent by first or recorded delivery post
+will be deemed to be served 3 Business Days following the day of posting. Notices or communications sent by fax will be
+deemed to be served on the day of transmission if transmitted before 4.00 pm on
+a Business Day, but otherwise on the following Business Day.
+
+25.3In all other cases, notices and communications will be deemed to
+have been served on the day when they are actually received. All notices and other communications served
+under this Agreement must expressly refer to the Clause pursuant to which they
+are served.
+
+The specified
+addresses and, telephone number for each Party for the purposes of this Clause
+25.3 is as follows:
+
+Ascot
+Environmental Limited
+
+Contact names:
+
+Address:
+
+Ascot House
+
+51 Water Street
+
+Radcliffe
+
+Manchester
+
+M26 3DE
+
+England
+
+Tel No:
+
+0161 724 1994
+
+Waste2Energy
+Engineering Limited
+
+Contact names:
+John Murphy
+
+Address:
+
+Hestan House
+
+Crichton Business Park
+
+Bankend Road
+
+Dumfries
+
+DG1 4TA
+
+United Kingdom
+
+Tel No: 0845
+868 0011
+
+31
+
+26.Variation
+
+No
+modification, amendment or variation of this Agreement will be effective or
+binding on the Parties unless in writing and signed by the authorised
+representatives of each Party.
+
+27.Costs
+
+Save as
+otherwise provided in this Agreement, each Party shall pay its own costs in
+connection with the negotiation, preparation, execution and performance of this
+Agreement, and all ancillary documents to it.
+
+28.Waiver
+
+The
+failure of either Party to seek redress for any breach or to insist upon the
+strict performance of any term, condition or provision of this Agreement, or to
+exercise any right or remedy to which it is entitled, will not constitute a
+waiver. A waiver of any breach will not
+constitute a waiver of any other breach, and no waiver of any of the terms,
+conditions or provisions of this Agreement will be effective unless it is in
+writing and expressed to be a waiver.
+
+29.Entire Agreement
+
+This
+Agreement together with any Orders placed pursuant to it contains the entire
+agreement between the Parties relating to the provision of the Equipment and
+the Services and supersedes any previous understanding, commitments, contracts
+or representations whatsoever whether oral or written relating thereto.
+
+30.Third Party Rights
+
+A person who is not a Party to this Agreement has
+no right under the Contract (Rights of Third Parties) Act 1999 to enforce or to
+enjoy the benefit of any term of this Agreement.
+
+31.Jurisdiction
+
+31.1If any Dispute arises in connection with this Agreement, directors
+or other senior representatives of the Parties with authority to settle the
+dispute will, within 7 days of a written request from one Party to the other,
+meet in a good faith effort to resolve the Dispute.
+
+32
+
+31.2If any Dispute arises in connection with this Agreement that is not
+settled by the Parties under Clause 31.1 within 5 Business Days, the Parties
+will attempt to settle it by mediation in accordance with the Centre for
+Effective Dispute Resolution (CEDR) Model
+Mediation Procedure. Unless otherwise agreed between the Parties, the mediator
+will be nominated by CEDR. To initiate the mediation a Party must give notice
+in writing (“ADR notice”) to the other Party to
+the Dispute requesting a mediation. A copy of the request should be sent to
+CEDR. The mediation will start not later
+than 14 days after the date of this ADR notice.
+
+31.3The decision of the mediator is not final and binding and either
+Party can commence court proceedings before the English courts which shall have
+exclusive jurisdiction in relation to all Disputes to finally resolve the
+Dispute.
+
+31.4No Party may commence any court proceedings in relation to any
+Dispute arising out of this Agreement until it has attempted to settle the
+Dispute by mediation and either the mediation has terminated or the other Party
+has failed to participate in the mediation, provided that the right to issue
+proceedings is not prejudiced by a delay.
+
+32.Governing law
+
+This
+Agreement is governed by and is to be construed in accordance with the laws of
+England and Wales.
+
+33.Counterparts
+
+This
+Agreement may be signed by each Party in any number of counterparts which taken
+together shall form one and the same instrument..
+
+33
+
+SIGNED for and on behalf of ASCOT ENVIRONMENTAL
+LIMITED
+
+/s/Dave Quarmby
+
+Signature
+
+D. Quarmby
+
+Print name
+
+Director
+
+Title
+
+SIGNED for and on behalf of UK CAPITAL VENTURES
+HOLDINGS PLC
+
+/s/ Dave Quarmby
+
+Signature
+
+D. Quarmby
+
+Print name
+
+Director
+
+Title
+
+SIGNED for and on behalf of WASTE2ENERGY ENGINEERING
+LIMITED
+
+/s/
+Stockton Birthisel
+
+Signature
+
+Stockton Birthisel
+
+Print name
+
+Director
+
+Title
+
+34
+
+SIGNED for and on behalf of WASTE2ENERGY GROUP
+HOLDINGS PLC
+
+/s/ Stockton Birthisel
+
+Signature
+
+Stockton Birthisel
+
+Print name
+
+Director
+
+Title
+
+SIGNED for and on behalf of WASTE2ENERGY TECHNOLOGIES INERNATIONAL
+LIMITED
+
+/s/ Stockton Birthisel
+
+Signature
+
+Stockton Birthisel
+
+Print name
+
+Director
+
+Title
+
+35
+
+Schedule 1
+
+Form of
+Order
+
+ORDER
+
+Dated 200( )
+
+Under the provisions of
+Clause 7 of the Agreement, dated March 2010
+(“the Master Supply Agreement”) between:
+
+(1)ASCOT
+ENVIRONMENTAL LIMITED a company registered in England and Wales (Company
+Registration No. 03716462) whose registered office is at Brazennose House
+West, Brazennose Street, Manchester, M2 2FE, England;
+
+(2)UK
+CAPITAL VENTURES HOLDINGS LIMITED a company registered in England and Wales
+(Company Registration No. 03721627) whose registered office is at Regency
+House, 45-51 Chorley New Road, Bolton, Lancashire BL1 4QR;
+
+together the “Purchaser”
+and
+
+(3)WASTE2ENERGY
+ENGINEERING LIMITED a company registered in Scotland (Company
+Registration No. SC360321) of Hestan House, Crichton Business Park,
+Bankend Road, Dumfries, DG1 4TA, United Kingdom;
+
+(4)WASTE2ENERGY
+GROUP HOLDINGS PLC a company registered in Isle of Man (Company
+Registration No. 003803V) whose registered office is at Stanley House,
+Lord Street, Douglas IM1 2BF;
+
+(5)WASTE2ENERGY
+TECHNOLOGIES INTERNATIONAL LIMITED a company registered in Isle of Man
+(Company Registration No. 003615V) whose registered office is at Stanley
+House, Lord Street, Douglas IM1 2BF
+
+together the “Supplier””.
+
+IT IS AGREED as follows:
+
+Words and expressions defined in the Master
+Supply Agreement shall have the same meanings when used in this Order.
+
+Save as herein amended, all terms and
+conditions of the Master Supply Agreement will apply.
+
+36
+
+1.The Equipment, Software and
+the associated Services to be provided under this Order are as follows:
+
+·Number of cBOSTMGasification Trains
+
+and, if
+applicable, are further set out in the documents and plans attached to this
+Order
+
+2.The Delivery Date is to be
+confirmed by the Supplier
+
+3.The Charges are calculated in
+accordance with Schedule 3 of the Master Supply Agreement together with any
+additional payment provided for under this Order.
+
+4.The Order No is
+
+5.The site where the Waste
+Facilites are to be installed by the Purchaser is and the customer for whom the
+Purchaser is to construct the Waste Facilities is.
+
+37
+
+SIGNED for and on
+behalf of ASCOT ENVIRONMENTAL LIMITED
+
+Signature
+
+Print name
+
+Title
+
+SIGNED for and on
+behalf of UK CAPITAL VENTURES HOLDINGS PLC
+
+Signature
+
+Print name
+
+Title
+
+SIGNED for and on
+behalf of WASTE2ENERGY ENGINEERING LIMITED
+
+Signature
+
+Print name
+
+Title
+
+38
+
+SIGNED for and on
+behalf of WASTE2ENERGY GROUP HOLDINGS PLC
+
+Signature
+
+Print name
+
+Title
+
+SIGNED for and on
+behalf of WASTE2ENERGY TECHNOLOGIES INERNATIONAL LIMITED
+
+Signature
+
+Print name
+
+Title
+
+39
+
+Schedule 2
+
+A cBOS™ Gasification Train is compromised
+of 5 major components:
+
+·4 x Primary Gasification Chambers; and
+
+·1 x Secondary Combustion Chamber including
+Emergency By-pass System together with a Process Control System and associated
+equipment as further described below.
+
+Further supporting equipment and control
+systems are required by the Purchaser including (but not limited to) those set
+out in Part 2 of Schedule 7 to operate safely and within regulatory
+standards.
+
+Equipment
+
+Primary Gasification Chamber (“PGC”) - 65m3 cBOS™ metal rectangular chambers, thermally
+insulated, refractory lined with all burners, fans, hydraulics, safety limit
+switches, thermometers to monitor the temperature of the gas flowing from the
+chamber. and valves together with three hydraulically operated doors as
+follows:
+
+·Load Door - a hydraulically operated lid
+which opens a hatch located on the top of the PGC as specified by the Supplier
+to meet the performance requirements.
+
+·Front Door - a hydraulically operated
+door that swings up to open an entry way into the front of the PGC as specified
+by the Supplier to meet the performance requirements..
+
+·Ash door- a hydraulically operated door
+with a fixed position that swings open providing an exit for discharging the
+waste ash from the PGC onto a conveyor (supplied by the Purchaser) as specified
+by the Supplier to meet the performance requirements.
+
+all as specified by the Supplier to meet
+the Performance Specifications.
+
+Secondary Combustion Chambers (“SCC”) - 1 X cBOS™ metal horizontal cylindrical vessel,
+thermally insulated, refractory lined with burners, fans, hydraulics, safety
+limit switches and valves as specified by the Supplier to meet the Performance
+Specifications.
+
+Cross Over Ductwork - Refractory lined
+metal Cross Over Ductwork for installation between the 4 X PGCs and 1 X SCC.
+
+40
+
+Guillotine Valves - 4 x PGC Guillotine
+Valves located between the PGCs and the SCC for controlling gas flows from PGCs
+to the SCC.
+
+Emergency By
+Pass - 1 X System designed to allow release of flue gases in event of
+emergency.
+
+SCC Frame - 1 X Structural Steel frame for
+supporting SCC from floor mounting only.
+
+Flue Gas Recirculation System (FGRS) - 1 X
+sub system of externally clad ductwork between the economiser and SCC with fan
+and valves as specified by the Supplier to meet the Performance Specifications.
+
+De - Nox System - 1 X Selective non-catalytic reduction urea
+injection system for reduction of nitrogen oxideswithin regulated limits.
+
+PGC Under Air
+and Over Air Fans - Two variable air flow fans for each PGC comprising a PGC
+Under Air Fan and a PGC Over Air Fan as specified by the Supplier to meet the
+Performance Specifications.
+
+Secondary
+Burner - providing the heat energy required to preheat the secondary chamber on
+start-up and to maintain within a certain range a constant temperature in the
+chamber, as specified by the Supplier to meet the Performance Specifications.
+
+Secondary
+Fans - two variable speed fans that supply auxiliary air for the combustion process,
+as specified by the Supplier to meet the Performance Specifications, adjusted
+using the automated control system.
+
+Induced Draft Fan (“ID Fan”) - a variable speed
+fan located after the flue gas treatment equipment and area, as specified by
+the Supplier to meet the Performance Specifications.
+
+4 X Process Control Panels - for PGC door
+operation and interlock control, as specified by the
+Supplier to meet the Performance Specifications.
+
+1 X cBOS™ Main Control Panel (MCP) - for
+the process control of the stages within PGC and the combustion within the SCC
+to include safety circuits, interlocks and emergency shutdown systems, as
+specified by the Supplier to meet the Performance Specifications
+
+1 X cBOS™ ID Fan Control Panel - for
+negative draft control and emissions dosing control, as specified by
+the Supplier to meet the Performance Specifications.
+
+Pressure Transmitters — a probe for
+measuring and regulating pressure changes in the SCC, as specified by the
+Supplier to meet the Performance Specifications.
+
+41
+
+Software
+
+The Software comprises the following:
+
+1 X PLC Software - Proprietary software for
+Programmable Logic Controllers to manage PGCs, SCC Combustion Control and
+Emission Control Dosing, as specified by the
+Supplier to meet the Performance Specifications
+
+SCADA - Control room data capture and
+reporting system and software, as specified by the
+Supplier to meet the Performance Specifications.
+
+Services
+
+Design
+Services
+
+The Supplier
+shall only undertake the Equipment design and specifications in relation to the
+Gasification Area and Synthesis Gas Combustion Areas of the Waste
+Facilities. The Purchaser shall be
+responsible for all other aspects and basis of design relating to the Waste
+Facilities.
+
+The design services to be provided by the
+Supplier (“Design Services”) if requested by the
+Purchaser and subject to payment of the Design Fee shall be:
+
+·Equipment Layout Design - cBOS™ Equipment
+layout design with civils’ loading and other Equipment layout integration
+
+·Equipment Integration Design - interface
+integration design of certain limited interfaces.
+
+Save for the refractory of the Equipment and
+without prejudice to Clause 3.3, the Purchaser hereby agrees to be responsible
+for all other interfaces between the Equipment and other parts of the Waste
+Facilities including but not limited to all electrical, hydraulic, water and
+diesel connections, the interface from the metal structure insulated and
+refractory lined that forms the transition from the SCC (“the SCC
+Exit Duct work”) with any waste heat recovery system and the
+interface between the SCC and the Flue Gas Recirculation System, the interface
+between the SCC and the Ash doors and any Process Control System interfaces.
+
+The Purchaser hereby agrees to provide the
+Supplier with full access as required by the Supplier to the Waste Facilities,
+the Equipment and the Software for the purposes of undertaking the refractory
+of the Equipment.
+
+42
+
+Other Services
+
+The Supplier may also supply the following
+additional services outside the scope of the Design Services, subject to
+agreement with the Purchaser on both scope and price to be charged for such
+additional services:
+
+·Waste to Energy Facility Project Programme
+Planning - delivery planning of equipment and services for the individual
+facility construction project programme.
+
+·Instrument Calibration - Post construction
+prior to commissioning final inspection and calibration of instrumentation.
+
+·Software Engineering - Loading of software
+onto Programmable Logic Controllers (PLCs) and configuring for the control of
+the Gasification Train.
+
+·Construction Supervision - Experienced
+plant engineer for construction inspections and consultation on equipment
+installation.
+
+·Change Management - Should there be the
+occasion for changes due to omissions or errors from any supply, additional
+engineering may be provided within a set number of engineering hours.
+
+·Operations and Maintenance - Package of
+documentation delivered and training of 3 engineers who can then train others
+i.e. train the trainer.
+
+·Monthly or annual inspection services.
+
+Commissioning Services
+
+The Supplier shall provide the
+commissioning services in accordance with
+the commissioning schedule provided by the Supplier showing the
+activities, the duration of those activities and the number of engineers involved
+(“Commissioning Services”).
+
+43
+
+Schedule 3
+
+Schedule of
+Charges
+
+Fees
+
+Licence Fee
+of £300,000 (“Licence Fee”) payable by the
+Purchaser to the Supplier per cBOS™ Gasification Train on placement of each
+cBOS™ Gasification Train Order.
+
+Design Fee of
+£150,000 (“Design Fee”) per Order payable by the
+Purchaser to the Supplier prior to commencement of any Design Services.
+
+Equipment
+
+Equipment shall
+be charged to the Purchaser by the Supplier at actual cost to the Supplier
+(including sub-contractors or third party costs and any costs of the Supplier)
+of supplying such Equipment plus a mark up of 25% on the actual costs to be
+agreed between the Parties in relation to each Order. In establishing the cost of the Equipment,
+the Parties shall make reference the to Target Price (as defined below) as the
+baseline cost as adjusted in accordance with the remainder of this Schedule 3
+together with any Order specific adjustments agreed between the Parties
+
+Once the
+relevant Order is accepted in accordance with Clause 7 the amount so calculated
+and agreed shall, subject to any adjustment in accordance with Clause 9.8, be
+the Supplier’s fixed entitlement to payment in respect of the Equipment for
+such Order (the “Equipment
+Cost”) and shall be invoiced monthly to the Purchaser by the
+Supplier in accordance with Clause 9.7.
+
+Target Price
+
+Without
+prejudice to the foregoing, the Parties acknowledge the content of the letter
+reference W2EAscot/MSA1 of event date herewith and signed by WEL for the
+purpose of identification (the “Target Price Letter”),
+describing (for the Purchaser’s information) a provisional Target Price for one
+cBOS™
+Gasification Train as at the date of this Agreement (the “Target Price”). The
+Target Price shall be adjusted in accordance with Clauses 9.4 and 9.8 and
+otherwise to reflect any demonstrable change in costs which are outside the
+control of the Supplier including any increase in materials costs, labour
+costs, or the costs or sums charged to the Supplier by its subcontractor’s and suppliers; the cost of
+changes to the design or specification of the Equipment or any other deviation
+between the Equipment which is to be provided to the Purchaser under the Order
+and that described in the Target Price Letter.
+The Supplier shall inform the Purchaser on request of the then current
+Target Price taking such adjustments into account.
+
+44
+
+Services
+
+The Design Fee above
+shall be in respect of the Design Services until Delivery.
+
+Up to 60 days of
+Commissioning Services by the Supplier’s Tiger Team provided the Purchaser pays
+the Supplier £9000 per week plus expenses.
+
+An annual
+inspection for £15,000 plus expenses payable by the Purchaser to the Supplier
+(if such inspection is requested by the Purchaser at its sole discretion)
+
+Other Services
+which are not Design Services or Commissioning Services may be provided by the
+Supplier subject to agreement between the Parties on scope and charges.
+
+Software
+
+The charge for
+Software shall be the Licence Fee for each Train on placement of the Order.
+
+In addition,
+programming updates may be provided free of charge for first three years from
+the Commencement Date and thereafter for the sum of £25,000 per annum plus
+expenses.
+
+45
+
+Schedule 4
+
+Liquidated Damages
+
+Subject
+to the maximum amount of liquidated damages in Clause 14.2, liquidated damages
+for any item of Equipment or Software shall be calculated at a rate of 1 per
+cent of the Charges (calculated in accordance with Schedule 3) for such item of
+Equipment or Software only (excluding any Licence Fee and Design Fee and not
+for those items of Equipment or Software which have been delivered on their
+Delivery Date or for which the Delivery Date has not been reached) per week of
+delay.
+
+46
+
+Schedule 5
+
+Commissioning Test
+
+The commissioning process for the plant has 4 stages followed by
+trials:
+
+·Cold
+Commissioning — Individual component testing
+
+·Hot
+Commissioning Stage 1 — Sub system testing
+
+·Hot
+Commissioning Stage 2 — Generating steam with gasoil
+
+·Hot
+Commissioning Stage 3 — Acceptance first waste
+
+·Waste
+to Energy Facility Trials
+
+Cold commissioning — Individual component
+testing
+
+During this stage individual components are tested such as cables,
+limit switches and connections to in panels and PLC´s.
+
+Hot commissioning stage 1— Sub system testing
+
+During this stage all sub-systems such as fan systems, hydraulic
+systems and burner functions are test run and communication between these
+devises and the PLC ensured. At this
+stage burners are only run for a very short time just to make sure all
+connections are properly made and ignition possible.
+
+Hot commissioning stage 2 — Generating steam
+with Gasoil
+
+At this stage the fans and burners in the Secondary combustion chamber
+are first commissioned and the air and fuel ratios adjusted for all burner
+stages. The secondary air fans will also
+during that time be commissioned, although some fine tuning will need to be
+done when waste is processed.
+
+The cBOS™ Gasification Train cannot be tested or run in isolation from
+the rest of the plant therefore listed below are the system checks and
+procedures that need to be followed to bring a complete facility into
+operation.
+
+It is the Purchaser’s responsibility to make sure that the
+Commissioning Tests can commence and be undertaken at all times. It is the
+Suppliers responsibility to carry out the test listed below relating to their
+supplied Equipment only.
+
+47
+
+Sequence of hot commissioning
+
+Each Party shall carry out the following tests which are marked as
+their responsibility and confirm completion by signature/initials.
+Deviations/comments shall be revealed in accordance with table below.
+
+Procedure
+
+Responsibility
+
+Yes/No
+
+Initial
+
+Date
+
+1) Confirm that the boiler plant is filled with demineralised water
+and is ready to operate.
+
+Confirm that all support systems for the boiler including water make
+up and chemical dosing are ready and available for use.
+
+Purchaser
+
+2) Confirm that all utilities are available and commissioned and are
+sufficient for the Commissioning Tests to be undertaken.
+
+Purchaser
+
+3) Confirm that the cooling tower is operating and circulating water
+to all users.
+
+Purchaser
+
+4) Confirm that the instrumentation in the turbine system which is
+required to control steam pressure via operation of the steam dump valve is
+operational.
+
+Purchaser
+
+5) Confirm that the turbine system is appropriately isolated if this
+is not to be commissioned at this time.
+
+Purchaser
+
+6) Liaise with other third party suppliers for commissioning
+activities on the boiler system who are responsible for the
+
+Purchaser
+
+48
+
+Procedure
+
+Responsibility
+
+Yes/No
+
+Initial
+
+Date
+
+commissioning tests on these items and recording the results. Where
+such tests are conducted before the Commissioning Services, confirm that such
+tests have been passed.
+
+If chemical boil out is the first activity confirm that all necessary
+chemicals are charged.
+
+7) Confirm that the boiler system is ready to accept heat before
+proceeding.
+
+Purchaser
+
+8) Start the ID fan initially in manual mode and then establish
+pressure control in automatic mode.
+
+W2e
+
+9) Open up guillotine damper and test run under and over air fans of
+each PGC in manual mode. Then shut down fans and close guillotine damper of
+each PGC.
+
+W2e
+
+10) Start SCC fans in manual mode, switch over to manual mode and set
+target temperature close to what the actual measured temperature is in the
+chamber at that moment, repeat as necessary. After assessing temperature
+control functionality modify PID control settings as the Supplier considers
+necessary. Also, set minimum fan speed to 5Hz during normal operation. Upon
+completion of these initial control settings shut down the SCC fans.
+
+W2e
+
+49
+
+Procedure
+
+Responsibility
+
+Yes/No
+
+Initial
+
+Date
+
+11) Confirm with W2E that the gasification train and flue gas
+treatment systems are ready to begin heating before proceeding.
+
+Purchaser
+
+12) Start the baghouse system. On start-up of the baghouse system the
+following equipment and sub-systems will be started automatically;
+recirculation and disposal rotary valves on inclined screw conveyor, inclined
+screw conveyor, two baghouse bottom hoppers screw conveyors (these things are
+run conditioned in reverse order, i.e. if the rotary valves are not running
+the screw conveyor cannot start and so on). Further, following items are also
+started automatically when the baghouse system is started; reverse jet
+pulsing system, sodium bicarbonate dosing system, PAC dosing system. Speed
+setting on re-circulation rotary valve has to be set, initial setting 30 Hz.
+Pulse time and waiting time need to be set, initial setting is pulse time
+0.25 sec and waiting time to max. Target setting and minimum settings need to
+be done for the Bicarbonate and manual dosing setting for PAC control system.
+Initial settings will be for half the legislative daily averages maximum
+limits for both HCl and SO2. Minimum
+settings are to be set at 5Hz. Load 2-3 tonnes of bicarbonate and 200-300 kg
+of PAC into each baghouse and use full recirculation speed. Start bottom
+baghouse heater. Run the system for 2 hours. Shutdown and inspect the clean
+side of the filter for leaks.
+
+W2e
+
+The Parties agree that the Baghouse filter or equivalent for the
+collection of particulate within the flue gas within WID limits are to be
+supplied by the Purchaser
+
+Purchaser
+
+50
+
+Procedure
+
+Responsibility
+
+Yes/No
+
+Initial
+
+Date
+
+13) Commission each PGC burner while having the emergency by-pass
+damper open and the guillotine damper on each PGC open. Adjust air/fuel ratio on the burners and
+test automatic burner control.
+
+Upon completion of commissioning of all PGC burners they are shut
+down and all guillotine dampers closed.
+
+Following, commission the SCC burners, also with by-pass stack
+open. Adjust air/fuel ratio for all
+stages as necessary, test automatic burner control and adjust initial control
+settings. Upon completion of this
+commissioning procedure, initial warm-up of the boiler can commence.
+
+W2e
+
+14) Continue heating and follow the recommended temperature profile
+required for final curing of the refractory.
+
+Liaise with Purchaser who will then liaise with other third party
+suppliers to ensure that the correct profile for the boil out is also
+followed.
+
+W2e / Purchaser
+
+15) As part of the chemical boil out it will be necessary to stop
+heating so that the boiler can be drained, cooled and flushed. During this
+time continue with any tests below that do not require heat, if possible.
+
+W2e / Purchaser
+
+16) Confirm that the chemical boil out is complete.
+
+Purchaser
+
+51
+
+Procedure
+
+Responsibility
+
+Yes/No
+
+Initial
+
+Date
+
+17) Apply heat and raise steam for statutory boiler tests and steam
+line blowing. Stop/start heating as requested.
+
+W2e
+
+18) Confirm with the Inspector that all statutory tests are complete
+and satisfactory.
+
+Purchaser
+
+19) Confirm that all pipe lines that are to be cleaned by steam
+blowing have been successfully blown.
+
+Purchaser
+
+20) Apply heat to the system and allow tuning of the Waste Heat
+Recovery Package control loops by varying the heat flow.
+
+W2e / Purchaser
+
+21) Test all the boiler system alarms and trips.
+
+Purchaser
+
+22) Confirm that the basic commissioning of the boiler system is
+complete. Priority can now be given to the following tests.
+
+Purchaser
+
+The following tests do not necessarily have to be done in the order
+listed.
+
+52
+
+Procedure
+
+Responsibility
+
+Yes/No
+
+Initial
+
+Date
+
+23) Confirm correct operation of the condenser and cooling tower
+system under load. Adjust fan set points as appropriate.
+
+Purchaser
+
+24) Check operation of the PGC burners and controls. Adjust fuel/air
+ratio as necessary.
+
+W2e
+
+25) Check operation of the PGC air fans and controls. Adjust settings
+if necessary.
+
+W2e
+
+26) Check operation of the PGC individual stage
+controls temperature control system.
+
+W2e
+
+27) Check operation of the valves in the crossover ducts when the SCC
+is at operational temperature and the individual PGC is in the off mode.
+
+W2e
+
+28) The SCC burners and controls will be set up such that the
+temperature exiting the SCC is maintained at a temperature of not less than
+1100°C.
+
+The burners are multi stage burners.
+The number of active stages are varied depending on the temperature in
+the SSC. The burners will be at
+maximum when the temperature has dropped 10 degrees below normal operation
+temperature which is 1120°C. They will
+reduce the number of stages as the temperature increases and shut off
+entirely when the temperature has reached the operation set
+
+W2e
+
+53
+
+Procedure
+
+Responsibility
+
+Yes/No
+
+Initial
+
+Date
+
+point again.
+
+29) Tune the SCC air fans controller. Assess the minimum speed
+setting and adjust as necessary. Initial minimum speed setting is 5Hz.
+
+W2e
+
+30) Check operation of the ID fan and control system.
+
+Vary the air flows from the PGC and SCC fans and tune the control
+system to respond to the resulting pressure/flow fluctuations.
+
+W2e
+
+31) Pre-commission the DeNOx system with water, inspect spray. Following commission the DeNOx equipment
+with maximum dilution urea and water mixture.
+
+W2e
+
+32) Start the Flue gas recirculation fan and establish
+recirculation. The control system will
+vary the speed of the fan to be equal to the speed of the systems ID fan.
+
+W2e
+
+33) Check operation of the filter conveyor and solids discharge
+system under normal operating temperatures.
+
+W2e
+
+34) Confirm correct operation of the oxygen analyser.
+
+Purchaser
+
+54
+
+Procedure
+
+Responsibility
+
+Yes/No
+
+Initial
+
+Date
+
+35) Confirm correct operation of the CEMS sampling and analysers.
+
+Purchaser
+
+36) Test all interlocks and trips on the PGC and SCC. Append test
+sheets to this record.
+
+W2e
+
+37) Test all interlocks which open the emergency vent. Append test
+sheets to this record.
+
+W2e
+
+38) Test all interlocks which set the gasifiers into turn down mode.
+Append test sheets to this record.
+
+W2e
+
+39) Carry out a full check of the control sequence for each PGC for
+the Sequential Batch Mode.
+
+Gasification Chamber A:
+
+Gasification Chamber B:
+
+Gasification Chamber C:
+
+Gasification Chamber D:
+
+W2e
+
+40) Carry out a full check of the control sequence for each PGC for
+the Multiple Chamber Operation Mode.
+
+Gasification Chamber A:
+
+Gasification Chamber B:
+
+W2e
+
+55
+
+Procedure
+
+Responsibility
+
+Yes/No
+
+Initial
+
+Date
+
+Gasification Chamber C:
+
+Gasification Chamber D:
+
+41) Carry out a full check of the control sequence for each PGC for
+the Single Chamber Operation Mode.
+
+Gasification Chamber A:
+
+Gasification Chamber B:
+
+Gasification Chamber C:
+
+Gasification Chamber D:
+
+W2e
+
+42) Confirm the plant is now ready to receive waste.
+
+Purchaser
+
+Waste to Energy Facility Trials - Testing
+Adjusting and Balancing
+
+The purpose is to finalise to the satisfaction of the Supplier the
+automatic running of the plant for normal operations where the PGCs will each
+run through their normal 5 stage cycle; ignition, gasification, carbon
+reduction, cool down and off.
+
+56
+
+Schedule 6
+
+Factory Acceptance Test
+
+The Factory Acceptance Tests shall be as specified
+by the Supplier to meet the Performance Specifications.
+
+Unless otherwise specified by the Supplier, the
+Factory Acceptance Test will be undertaken by the Supplier in 4 parts:
+
+1. Component Parts
+
+a) No material physical damage
+
+b) Quantity correct
+
+c) Order description matches Equipment and Software
+Supplied.
+
+2. Weld Inspection
+
+Inspection shall be performed normally by Supplier.
+
+The Supplier shall verify all welding activities,
+at the applicable stages, are in accordance with applicable weld
+specifications, procedures and instructions.
+
+Non-destructive Examination
+
+The non-destructive examination techniques used may
+include:
+
+·Ultrasonic
+examination
+
+·Radiographic examination
+
+·Magnetic
+particle inspection
+
+·Dye penetrant
+inspection
+
+·Visual
+examination
+
+57
+
+3. Surface
+Protection
+
+This inspection, as detailed in the applicable tier
+3 procedures, includes the inspection of surfaces prior to and after
+application of the paint or other protective coat.
+
+After preparation and prior to painting, the
+surfaces shall be clean and free from weld spatter, foreign material, oil and
+grease and otherwise compatible with applicable paint.
+
+The paint thickness per layer shall be checked by
+the Supplier where critical and the drying / curing time confirmed to meet the
+specified requirements.
+
+On completion the final total dry-film-thickness
+(DFT) shall be checked.
+
+4. Dimensional Inspection
+
+This inspection, as detailed in applicable tier 3
+procedures, is to ensure:
+
+a) product conforms to applicable specifications
+for lengths, straightness and levels as specified by the Supplier.
+
+b) any deviations from acceptance criteria are identified,
+recorded and the necessary corrective action taken at the earliest possible
+stage to minimise the effects. Detailed measurements shall be taken during
+machining, cutting, fabrication and erection of assemblies.
+
+Measuring equipment shall be selected to suit the
+specific application and shall have a current calibration record to the
+specified standard.
+
+Provided the Supplier has undertaken the Factory
+Acceptance Tests, the Supplier shall issue a Factory Acceptance Certificate.
+
+58
+
+Schedule 7
+
+Purchaser Obligations
+and Performance Specifications
+
+The Supplier shall only be responsible for meeting
+the performance specifications for the Equipment and Software supplied by the
+Supplier. The Parties acknowledge that
+the Waste Facility in its entirety, save of the Equipment and Software supplied
+by the Supplier. is the responsibility of the Purchaser. The Parties also agree that the Purchaser has
+certain obligations in relation to the Performance Specification and that the
+Performance Specifications shall only apply to the Supplier to the extent the
+Purchaser has met all of its obligations under Part 2 of this Schedule 7.
+
+Part 1:
+Performance Specifications
+
+The Supplier shall determine and provide the Purchaser
+with performance specification for the Equipment and Software supplied in
+respect of each Order.
+
+Waste Incineration Directive
+
+The Equipment shall, where and to the extent
+applicable, comply with the EU Waste Incineration Directive (2000/76/EC) save that the
+Supplier shall have no responsibility for compliance of the Waste Facility generally with such directive.
+
+Lubrication
+
+Components
+forming part of the Equipment requiring manual lubrication shall be provided
+with greasing nipples of an appropriate type as determined by the Supplier and
+located external to any guards.
+
+Nameplates
+and Labels
+
+Instruction
+plates, nameplates and labels shall be provided for the Equipment giving
+particulars of duty, size, serial number and information for identification and
+operation. The information shall be
+engraved on a 3mm thick laminated white/black/white aluminium or alloy plate
+with reference letters and numerals not less than 4mm and 8mm high
+respectively, or as otherwise determined by the Supplier.
+
+Painting
+Specification
+
+This
+specification covers the minimum requirements for the surface preparation and
+painting of Equipment and structural steelwork and identification of non-buried
+pipelines. Equipment supplied with a “Manufacturers Standard” paint specification,
+shall be assessed by the
+
+59
+
+Purchaser
+to gauge its suitability for the proposed environment. Where the “Manufacturers
+Standard” paint specification is deemed by the Supplier to be unsuitable for a
+particular environment it may be enhanced in accordance with this
+specification. This specification does not relieve the Supplier of the
+responsibility for complying with any statutory regulations.
+
+Temperature
+Instruments
+
+The
+Supplier shall provide temperature instruments in the Gasification Trains.
+
+Part 2: Purchaser’s
+Obligations
+
+General
+
+The
+Purchaser shall be responsible for fasteners, fastenings to concrete and
+masonary, baseplates, setting of equipment, preparation for shipment, material
+delivery storage and protection, cleaning, structural steel, supports,
+walkways, platforms, handrails, walkways, stairways, ladders, stanchions,
+handrails, edge protection, protective treatment, civil/anchor bolts for the
+Waste Facility including, without limitation, as more particularly described
+below.
+
+Waste
+
+The
+Purchaser acknowledges that there are restrictions in the wastes that can be
+processed, the materials that can be used for construction, operating
+parameters, by-products that can be created and how they are treated especially
+gaseous emissions to atmosphere. The
+Purchaser shall comply with all handbooks, operating manuals and other
+instructions from the Supplier in relation to these matters including any
+requirements relating to the waste characteristics and processing ranges.
+
+Without
+prejudice to any specific requirements identified by the Supplier, the
+Purchaser shall ensure that waste for processing is within the following
+ranges:
+
+Individual waste
+
+range
+
+PGC mixed waste
+
+feed range
+
+Total throughput
+
+Tpd
+
+60 (per cBOSTM Gasification Traim)
+
+Net calorific value
+
+Kj/kg
+
+0 to 43000
+
+6000 to 20000
+
+Bulk density
+
+Kg/m3
+
+50 to 1000
+
+80 to 350
+
+60
+
+Ash Unloading
+
+The
+Purchaser shall be solely responsible for the design of the ash unloading and
+conveyor system and for ensuring that it is capable of handling the ash
+generated from the specific waste or material used by the Purchaser. Without limitation to the generality of the
+foregoing, the Purchaser shall ensure that, and shall be responsible for
+ensuring that:
+
+·Large waste items
+are broken down prior to being added to the gasifiers.
+
+·Large waste items
+that are not combustible are removed from the waste stream.
+
+·Large items of
+dense waste, such as wooden railway sleepers and trees trunks, are shredded
+on-site prior to being fed into the gasifiers.
+
+Corrosion
+
+The
+Purchaser shall ensure the prevention of corrosion due to bimetallic corrosion
+or the close proximity to the Equipment of dissimilar metals. The Purchaser shall ensure that protection
+against corrosion through electrolytic action or differences in electrical
+potential, shall be afforded by electroplating, suitable gaskets, cathodic
+protection or other effective means.
+
+Protection of
+Moving Parts
+
+The
+Purchaser shall ensure that all moving parts accessible to operational
+personnel are protected and suitably guarded in accordance with a national
+safety of machine standards. All guards shall facilitate easy removal, by a
+maximum of two persons, without undue strain. At all times that the Equipment
+is in operation all guards shall be securely fixed using a fixing method that
+can only be released with the aid of a special tool, e.g. bolted on guards.
+Where a suitable electrical power supply is available, guards shall be fitted
+by the Purchaser with interlocking systems based on the use of limit switches.
+In the case of hinged guards the switches shall be operated by rotary cams
+mounted on the hinge axis, and for sliding guards the switches shall be
+operated by a linear cam. In all cases switches shall be fitted and wired to
+produce a ‘fail safe’ system. Captive-key interlock systems may be used to
+ensure that electrical power has been isolated before guards can be removed.
+The captive key may also be the special tool required to release the guards.
+The captive key shall be locked in the isolator and shall only be removed by
+isolating the power supply.
+
+61
+
+Lubrication
+
+The
+Purchaser shall be responsible for lubrication. All bearing surfaces shall be
+properly charged by the Purchaser with grease before the plant is operated and
+as required during operation.
+
+The
+Purchaser shall provide a remotely mounted electrically operated lubricator of
+an appropriate type to serve components, if any (including components of the
+Equipment), that require continuous lubrication by external mechanical means.
+The lubrication tubes, if any, shall be of a material suitable for its
+application and shall not be less than 6mm bore. The tubes shall be securely
+clipped to the structure and be easily accessible at all times.
+
+Frost
+Protection
+
+The
+Purchaser shall ensure that all plant (including the Equipment) is adequately
+protected against damage from freezing and/or sub-zero temperatures using an
+approved means of insulation. Where lagging is used, the Purchaser shall ensure
+that it is suitable for outside installation and completely impervious to all
+weather and atmospheric conditions on the works.
+
+Electrical/ICA Equipment
+
+GENERAL
+
+Electrical
+Connection
+
+The
+Purchaser shall provide a distribution network and substation located at the
+site. A switchboard will be supplied by
+the Purchaser close to this substation, and will include a metered circuit
+breaker to accommodate the main connection circuit.
+
+A
+diesel generator will be provided by the Purchaser for emergency power and this
+will feed a separate panel that will normally be supplied from the mains
+transformer but will automatically switch to diesel on power failure.
+
+The
+Purchaser shall provide a suitable supply cable to the MCCs.
+
+Electrical /
+ICA Equipment
+
+The
+Purchaser shall provide and be responsible for, without limitation, the
+following:
+
+·Supply,
+installation and testing of all electric cables.
+
+·Supply and
+installation of all supports for above including tray work, brackets and clips.
+
+62
+
+·Supply and
+installation of any distribution board suitable where necessary for any
+hazardous areas.
+
+·Supply and
+installation of any junction boxes.
+
+·Supply,
+installation and pressure testing of pneumatic pipework for any pneumatically
+operated valves.
+
+·Supply and
+installation of all terminations, including glands, wire markers, shrouds, etc.
+
+·Testing of all
+instrument loops, electrical cables, etc.
+
+·Supply and
+installation of cable labels.
+
+·Supply and
+installation of traffolyte labels for all field instruments, etc.
+
+·Supply and
+installation of supplementary earthing.
+
+·Fire stops for
+all cable egress into switchrooms.
+
+·Scaffolding and
+craneage for erection of electrical equipment /cabling
+
+·Supply off CEMS
+system for each of the 2 streams.
+
+·Supply,
+installation and testing of ESD systems as required by any SIL or safety
+assessment.
+
+·Supply,
+installation and testing of MCCs
+
+Secure AC
+System
+
+The
+Purchaser shall provide a 400/230v AC, un-interruptible power supply (UPS)
+system to the satisfaction of the Supplier. The UPS system shall have a suitable
+a manual control bypass facilities to enable an inverter or static switch to be
+taken out of service without loss of output.
+
+The
+inverter shall be fan cooled.
+
+CABLES AND
+CABLE INSTALLATION
+
+Cables
+
+The
+Purchaser shall supply and complete all cables required for interconnection of
+all Equipment and all other parts of the Waste Facility. Cable cores shall be of copper or aluminium.
+The insulation shall be either XLPE or PVC.
+
+The
+Purchaser shall ensure that:
+
+·with the exception of selected cables such
+as cables run in conduit and MICC cables all cables shall be armoured.
+
+·Control cables shall be segregated from
+power cables.
+
+63
+
+Cable
+Installation
+
+The
+Purchaser shall design and provide all major cable/ladder tray routes and
+supports. The Purchaser shall ensure
+that all:
+
+·all cables, which are not directly buried
+or laid in ducts shall be adequately supported.
+
+·supports are of adequate strength for the
+weight of the cable tray, load and span conditions.
+
+·cable trays are capable of carrying cables
+with a maximum deflection of 12mm at any point.
+
+·the cable tray and ladder routing does not
+clash with structural steel, piping, insulation, and equipment does not
+obstruct access ways.
+
+The
+Purchaser shall ensure that:
+
+·Cable trays are continuously bonded.
+
+·Where possible all cables are run above
+ground.
+
+·All brass cable glands are fitted with PVC
+shrouds.
+
+·All cables and cores are terminated and
+ferruled via a Proprietary identification system. Each cable shall be fitted
+with approved identification bands at each end.
+
+·Cable screens are isolated from earth at
+the field instrument, are continuous through to the remote I/O panels and
+earthed only there.
+
+·Junction boxes are rated IP65 where used
+outside and have a minimum rating of IP54 where used indoors. They shall be made of polypropylene or
+alternative material suitable for the environment.
+
+EARTHING
+
+The
+Purchaser shall provide an earthing and equi-potential earthing system
+generally comprising of earth bars located at various locations around the
+Plant which shall be earthed via an earth bar in the MCC/Control room back to
+the MCC.
+
+The
+Purchaser shall ensure that all electrical consumers, motor casings, columns,
+steel structures, electrical traywork, etc. shall are connected to the earthing
+system.
+
+64
+
+The
+Purchaser shall provide all main structures with lightning protection by means
+of copper tape earthed down to earth pits.
+
+LIGHTING/SMALL
+POWER AND SERVICES
+
+Lighting
+
+The
+Purchaser shall provide adequate and appropriate operational and emergency
+lighting. The Purchaser is responsible for the supply and operation of all
+lighting required to the Supplier’s satisfaction during construction and
+testing.
+
+Small Power
+
+The
+Purchaser shall provide appropriate small power and welding sockets. The
+Purchaser shall provide and is responsible for the supply and operation of all
+small power required during construction and testing.
+
+Weighing
+Facilities
+
+The
+Purchaser is responsible for supplying any process or vehicle weighing
+equipment necessary for plant operation.
+
+Security/Access
+
+The
+Purchaser shall provide security monitoring and access systems including intruder
+cameras, CCTV and electric doors.
+
+Temperature
+Instruments
+
+The
+Purchaser shall provide and be responsible for all temperature instruments
+other than those used in the Gasification Trains.
+
+OUTPUT
+FLUE GASES
+
+The
+Purchaser shall treat all flue gases prior to their release to atmosphere.
+
+The
+Purchaser shall provide a properly sized stack to regulate the flow of flue
+gases to atmosphere.
+
+The
+Purchaser will provide the waste heat recovery package to generate steam or
+superheated steam.
+
+65
+
+PURCHASER
+DESIGN
+
+The Purchaser
+shall be responsible for the design of the operational parameters, plant layout
+requirements and utilities and chemical requirements all of which shall be
+subject to the agreement of the Supplier.
+
+TESTING
+FEED STOCK
+
+The
+Purchaser shall ensure that there is sufficient waste feed stock of the correct
+type to enable the tests described in Schedules 5 and 6 or as otherwise
+identified by the Supplier to be performed by the Supplier.
+
+INTERNET
+CONNECTION
+
+The
+Purchaser shall provide a dedicated, uninterrupted internet connection of a
+suitable specification (including but not limited to sufficient bandwidth as
+determined by the Supplier in relation to each Order) to enable the Supplier to
+connect to the control panels referred to in Schedule 2 and to otherwise
+perform its obligations under this Agreement.
+
+66

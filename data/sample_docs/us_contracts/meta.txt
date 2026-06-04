@@ -1,0 +1,9 @@
+Source: SEC-filed contracts from CUAD
+
+file					Name	/ Ref			Pages
+franchise_agreement.pdf		Franchise 	(PfHospitality)		42
+ip_agreement.pdf		IP assignment 	(Armstrong Flooring)	40
+license_agreement.pdf		Content license (Allied Esports)	10
+non_compete_agreement.pdf	Non-compete 	(Quaker Chemical)	13
+service_agreement.pdf		Services 	(Gpaq / Stryve)		25
+supply_agreement.pdf		Supply 		(Organic Preparations)	13

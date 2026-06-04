@@ -1,0 +1,129 @@
+PROFESSIONAL SERVICES AGREEMENT
+(Indian Contract Act, 1872)
+
+This Professional Services Agreement is executed on [DATE] between:
+
+SERVICE PROVIDER: Digital Solutions India LLP, registered under LLP Act, 2008
+Address: #45, Electronic City, Bangalore - 560100, Karnataka
+PAN: AABCD1234E, GSTIN: 29AABCD1234E1ZP
+
+CLIENT: Mumbai Industries Private Limited
+Address: Nariman Point, Mumbai - 400021, Maharashtra
+CIN: U74999MH2018PTC123456, PAN: AABCM5678F
+
+1. SCOPE OF SERVICES
+1.1 Service Provider agrees to provide IT consulting and software development services as detailed in Schedule A.
+1.2 Services include: Custom software development, system integration, technical support, and training.
+1.3 Deliverables: As specified in project milestones and acceptance criteria.
+1.4 Service Level Agreement: 99% uptime, 4-hour response time for critical issues.
+
+2. TERM AND COMMENCEMENT
+2.1 Agreement Period: 24 months from [START DATE]
+2.2 Effective Date: Upon execution of this Agreement
+2.3 Renewal: By mutual written consent for additional 12-month periods
+2.4 Project phases as per agreed timeline in Schedule B
+
+3. FINANCIAL TERMS
+3.1 Total Contract Value: Rs. 25,00,000 (Rupees Twenty-Five Lakhs only)
+3.2 Payment Schedule:
+    - 30% advance: Rs. 7,50,000 upon Agreement signing
+    - 40% milestone payment: Rs. 10,00,000 upon UAT completion
+    - 30% final payment: Rs. 7,50,000 upon Go-Live
+3.3 GST: 18% additional as applicable under GST Act, 2017
+3.4 TDS: As per Income Tax Act, 1961 (10% u/s 194C for professional services)
+
+4. PAYMENT TERMS
+4.1 Invoices shall be raised monthly with 7 days advance notice
+4.2 Payment due within 45 days of invoice receipt
+4.3 Late payment interest: 18% per annum as per Indian Contract Act
+4.4 All payments via RTGS/NEFT to specified bank account
+4.5 Foreign Exchange: If any component involves forex, subject to FEMA regulations
+
+5. INTELLECTUAL PROPERTY RIGHTS
+5.1 Custom Developed IP: All rights vest with Client upon full payment
+5.2 Pre-existing IP: Service Provider retains ownership but grants usage license
+5.3 Third-party IP: Subject to original license terms
+5.4 Compliance with Copyright Act, 1957 and Patents Act, 1970
+5.5 Open Source Components: Disclosed separately with applicable licenses
+
+6. CONFIDENTIALITY AND DATA PROTECTION
+6.1 Both parties shall maintain strict confidentiality of proprietary information
+6.2 Non-disclosure obligation continues for 5 years post-termination
+6.3 Data Protection: Compliance with IT Act, 2000 and Digital Personal Data Protection Act, 2023
+6.4 Data Localization: All personal data of Indian citizens stored within India
+6.5 Cybersecurity: Implementation of reasonable security practices per IT Rules, 2011
+
+7. LIABILITY AND INDEMNIFICATION
+7.1 Service Provider's liability limited to contract value for direct damages only
+7.2 Exclusions: Consequential, indirect, special, or punitive damages
+7.3 Client Indemnification: Against third-party claims arising from Client's use
+7.4 Service Provider Indemnification: IP infringement claims from deliverables
+7.5 Liability cap does not apply to: willful misconduct, confidentiality breach, IP infringement
+
+8. TERMINATION CLAUSES
+8.1 Termination for Convenience: 90 days written notice by either party
+8.2 Termination for Cause: Immediate upon material breach, non-payment, insolvency
+8.3 Consequences: Payment for completed work, return of confidential information
+8.4 Survival: Confidentiality, IP rights, limitation of liability survive termination
+8.5 Dispute resolution during termination as per Clause 12
+
+9. FORCE MAJEURE
+9.1 Events: Natural disasters, government actions, pandemics, strikes, war
+9.2 Notice: Written intimation within 15 days of occurrence
+9.3 Mitigation: Reasonable efforts to minimize impact and find alternatives
+9.4 Suspension: Performance obligations suspended during force majeure
+9.5 Termination: If force majeure continues beyond 6 months
+
+10. COMPLIANCE AND REGULATORY
+10.1 GST Registration: Both parties maintain valid GST registration
+10.2 Labor Laws: Compliance with Contract Labour Act, 1970 if applicable
+10.3 Environmental: Adherence to pollution control norms
+10.4 Import/Export: DGFT regulations for any cross-border components
+10.5 Industry Standards: ISO 27001, CMMI Level 3 compliance
+
+11. QUALITY AND ACCEPTANCE
+11.1 Quality Standards: Industry best practices, coding standards
+11.2 Testing: Unit testing, integration testing, user acceptance testing
+11.3 Acceptance Criteria: As mutually defined in project specifications
+11.4 Defect Liability: 12 months warranty on delivered software
+11.5 Support: 24/7 L1 support, business hours L2/L3 support
+
+12. DISPUTE RESOLUTION
+12.1 Amicable Resolution: Good faith negotiations for 30 days
+12.2 Mediation: Through Bangalore Mediation Centre if negotiation fails
+12.3 Arbitration: Single arbitrator as per Arbitration Act, 2015
+12.4 Seat of Arbitration: Bangalore, Karnataka
+12.5 Court Jurisdiction: Courts of Bangalore for enforcement/interim relief
+
+13. GOVERNING LAW
+This Agreement is governed by Indian laws including:
+- Indian Contract Act, 1872
+- Information Technology Act, 2000
+- Goods and Services Tax Act, 2017
+- Foreign Exchange Management Act, 1999
+
+14. NOTICES
+14.1 Written notices to registered addresses mentioned above
+14.2 Email notices acceptable with read receipts
+14.3 Deemed received: 3 days for courier, immediately for email
+14.4 Change of address: 15 days prior written notice required
+
+15. MISCELLANEOUS
+15.1 Amendment: Only by written agreement signed by authorized representatives
+15.2 Severability: Invalid clauses don't affect validity of remaining Agreement
+15.3 Waiver: Must be explicit and written, no waiver by conduct
+15.4 Assignment: Requires prior written consent of both parties
+15.5 Entire Agreement: Supersedes all prior negotiations and agreements
+
+IN WITNESS WHEREOF, parties execute this Agreement through authorized signatories:
+
+DIGITAL SOLUTIONS INDIA LLP        MUMBAI INDUSTRIES PVT LTD
+
+______________________           ______________________
+[Authorized Partner]             [Managing Director]
+Name: Rajesh Kumar              Name: Priya Sharma
+Date: ____________              Date: ____________
+
+Witnesses:
+1. _________________           1. _________________
+2. _________________           2. _________________

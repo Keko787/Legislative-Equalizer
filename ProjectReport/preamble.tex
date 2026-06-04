@@ -1,0 +1,22 @@
+% Paper-style two-column layout, IEEE/ACM look without IEEEtran's strict rules.
+\usepackage[a4paper,margin=0.7in,columnsep=0.25in]{geometry}
+\usepackage{fancyvrb}
+\fvset{fontsize=\scriptsize}
+\usepackage{float}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{caption}
+
+% Compact captions for figures and tables.
+\captionsetup{font=small,labelfont=bf,skip=4pt}
+
+% Title block: tighter than article default, similar to IEEE conference papers.
+\usepackage{titlesec}
+\titleformat*{\section}{\large\bfseries\scshape}
+\titleformat*{\subsection}{\normalsize\bfseries\itshape}
+\titlespacing*{\section}{0pt}{8pt}{4pt}
+\titlespacing*{\subsection}{0pt}{6pt}{2pt}
+
+% Code blocks: small font so wide trees fit a single column.
+\fvset{fontsize=\scriptsize}

@@ -1,0 +1,875 @@
+EX-10.14
+29
+tm236957d17_ex10-14.htm
+EXHIBIT 10.14
+
+Confidential treatment has been requested for redacted portions of
+this exhibit.
+
+This copy omits the information subject to the confidentiality request. Omissions are designated as ******.
+
+Exhibit
+10.14
+
+Trademarks
+License Agreement
+
+Dated:
+date of last signature of the Parties
+
+between
+
+Group
+Lotus Limited
+
+and
+
+LOTUS
+ADVANCED TECHNOLOGY LIMITED
+
+This
+Trademark LICENSING AGREEMENT (“Agreement”)
+is made on the date of last signature of the Parties
+by and between:
+
+(1)Group
+Lotus Limited, a
+company incorporated in England and Wales with company number 00606189, with its registered
+address at Potash Lane, Hethel, Norwich, NR14 8EZ (“Licensor”); and
+
+(2)LOTUS
+ADVANCED TECHNOLOGY LIMITED, a
+company organized and existing under the laws of Hong Kong with company number 73169419-000-07-21-3,
+with its registered address at Unit 3A-8,12/F, Kaiser Centre, No. 18 Centre Street, Sai
+Ying Pun, Hong Kong (“Licensee”)
+
+(Licensor
+and Licensee shall be individually referred to as a “Party” or collectively
+as the “Parties”).
+
+WHEREAS
+
+(A)One
+or more Affiliates of the Licensee design, manufacture, develop and sell automobile vehicles,
+related parts and components, provide services in relation to and conduct any other business
+that it deems fit around the world.
+
+(B)The
+Licensee wishes to obtain a licence to certain trademarks of the Licensor for use by
+its Affiliates.
+
+(C)In
+consideration for the grant of the licence in this Agreement, the Licensor or a Lotus
+Group Company nominated by the Licensor will be issued with 150,101 ordinary shares of
+Lotus Cayman (as defined below), the public listing vehicle of the Licensee representing
+a 0.07% shareholding in Lotus Cayman.
+
+(D)The
+Licensor (or its nominee), Lotus Cayman, and other shareholders of Lotus Cayman intend
+to enter into a shareholders’ agreement.
+
+(E)The
+Parties agree that Licensor will grant the Licensee the licence in Hong Kong only according
+to the terms and conditions of this Agreement.
+
+IT
+IS AGREED AS FOLLOWS:
+
+1.DEFINITIONS
+AND INTERPRETATION
+
+1.1Definitions
+
+In
+this Agreement, unless the context otherwise requires, the following words and expressions shall have the following meanings:
+
+“Affiliate(s)”means
+in relation to the Licensee:
+
+(a)any
+wholly owned subsidiary of the Licensee (either directly or indirectly via one or more wholly owned subsidiaries);
+
+(b)any
+wholly owned subsidiaries of Lotus Cayman (either directly or indirectly via one or more wholly owned subsidiaries);
+
+(c)any
+entity listed in Schedule 4
+
+(d)any
+entity that the Parties agree should be an affiliate (which shall be determined upon a written request by the Licensee to the
+email address of the Licensor specified in clause 11.12, providing full details of the proposed company and the reason for including
+them as an affiliate; the Licensor shall respond as to whether or not it approves such request within fourteen (14) days of receipt
+of the request, which approval shall not be unreasonably withheld;)
+
+but
+the definition of Affiliates shall exclude Lotus Cayman or Lotus Technology International Limited.
+
+“Applicable
+Laws” means, with respect to any person, any and all applicable
+provisions of any constitution, statute, law, regulation, ordinance, judgment, rule of common law, or order or injunction pursuant
+to any legal process issued by any court or tribunal with competent jurisdiction whether in China or elsewhere, whether in effect
+as of the date hereof or thereafter and in each case as amended, applicable to such person or its assets;
+
+“Business
+Day” means a day (excluding Saturday and Sunday and gazetted
+public holidays) when banks are open for general banking business with the public in London and Hong Kong;
+
+“Confidential Information”means any information which any Party or its Affiliates
+(or any Lotus Group Company in the case of the Licensor) may have or acquired (whether before or after the date of this Agreement)
+including any information in relation to the Licensed Trademarks, any financial information, know-how, trade secrets and other
+information of a confidential nature (including, without limitation, all proprietary
+technical, industrial and commercial information and techniques in whatever form held, such as paper, electronically stored data,
+magnetic media film and microfilm or conveyed orally), wherever in the world protectable;
+
+“Cross-over” means a vehicle with a mixture of Sedan and SUV attributes,
+often with some increase in ride height and roof line but maintaining a lower overall height than the SUV;
+
+“Effective Date”means the date of this Agreement;
+
+“Hatch-back”means a Sedan but with five doors, where the fifth door
+provides access to the trunk area and the main body of the car with seats folded;
+
+“Licensed Trademarks” means those trademarks set out in Schedule 1 in the
+Territory or any replacement trademark agreed by the Parties from time to time in the Territory and class unless not renewed by
+the Licensor prior to the Effective Date;
+
+“Licensor’s Majority Shareholders” means Etika Automotive Sdn Bhd and Zhejiang Geely Holding
+Group Limited;
+
+“Lotus Group Company”means in relation to the Licensor, that company, any
+subsidiary or holding company from time to time of that company, and any subsidiary from time to time of a holding company of
+that company.
+
+“Licence Fee”has the meaning given to it in clause 4.1.
+
+“Lifestyle Vehicle” a passenger vehicle (which for the avoidance of doubt,
+shall exclude “Sports Car” (as defined below)) produced by Licensee (or its Affiliates), which is an SUV, Sedan, Cross-over
+or Hatch-back.
+
+“Lotus Cayman”Lotus Technology Inc., a company incorporated in the
+Cayman Islands under number 379482.the parent and sole shareholder of the Licensee.
+
+“Sedan”
+means
+a vehicle whose length is divided into three distinct sections, an engine compartment, a cabin for passengers and a trunk,
+typically, with 4 doors and 4 or 5 seats.
+
+“Sports
+Car” means
+a vehicle low to the ground with dynamic capability as the focus; Typically, with 2 doors and 2 or 4 seats with either metal
+roof or a convertible hood.
+
+“SUV”
+or “Sports
+Utility Vehicle” means
+a vehicle with increased ground clearance, space and visibility over a Sedan; they can be either off-road focused or comfort
+focused.
+
+“Renminbi”
+or
+“RMB”
+means Renminbi Yuan, the lawful currency of People’s
+Republic of China.
+
+“Territory”means Hong Kong only.
+
+1.2Interpretation
+
+Save
+where specifically required or indicated otherwise:
+
+(a)all
+references to statutes, statutory provisions, enactments, shall include references to
+any consolidation, re-enactment, modification or replacement of the same, any statute,
+statutory provision, enactment, of which it is a consolidation, re-enactment, modification
+or replacement and any subordinate legislation in force under any of the same from time
+to time except to the extent that any consolidation, re-enactment, modification or replacement
+enacted after the date of this Agreement would extend or increase the liability of any
+Party under this Agreement;
+
+(b)clause
+and paragraph headings and the table of contents are inserted for ease of reference only
+and shall not affect construction.
+
+(c)a
+reference in this Agreement to “including”, “include” and other
+similar expressions shall not be construed restrictively but shall mean “including
+without prejudice to the generality of the foregoing” and “including, but
+without limitation”.
+
+(d)any
+reference to “writing” or “written” includes any method of reproducing
+words or text in a legible and non-transitory form (including electronic mail);
+
+(e)there
+shall be no presumption that any ambiguity should be construed in favour of or against
+any party solely as a result of such party’s actual or alleged role in drafting this
+Agreement or any part of it;
+
+(f)where
+an act is required to be done within a specified number of days after, from, or prior to a specified date, the time period shall
+be calculated exclusive of the date so specified and if the last day of the period of time falls on a day which is not a Business
+Day, then the period shall be deemed to expire on the immediately succeeding Business Day.
+
+2.LICENCE
+OF LICENSED TRADEMARKS
+
+2.1Subject
+to the terms of this Agreement (including clauses 2.2, 2.3 and 6.9A below), the Licensor hereby agrees to grant to Licensee and
+to the Affiliates of Licensee and the Licensee agrees to accept a sub-licensable licence to use those Licensed Trademarks set
+out in Part A to schedule 1 showing “Hong Kong” in the “country” column (“Part
+A Licensed Trademarks”) in the Territory in those classes (and individual specification of goods and services
+registered for each class) covered by those Licensed Trade Marks for so long as the Licensee (or its Affiliates) conduct the business
+in relation to Lifestyle Vehicles (the “Term”):
+
+(a)exclusively
+on the Lifestyle Vehicles and parts and components in relation thereto the Licensee (or
+its Affiliates) designs, develops, manufactures, assembles, distributes and sells or
+has designed, developed, manufactured or assembled by any third party.
+
+(b)non-exclusively
+for Licensee’s or its Affiliates’ business of providing related after-sale
+services for the Lifestyle Vehicles;
+
+(c)non-exclusively
+on the related products (excluding anything relating to Sports Cars) such as accessories
+Licensee (or its Affiliates) designs, produces, distributes, and sells or has designed
+or produced by any third party on its behalf;
+
+(d)any
+other occasions in relation to the business conducted by the Licensee (or its Affiliates)
+as duly approved by its Board (excluding anything relating to Sports Cars);
+
+(collectively,
+“Part A
+Trademark Licence”).
+
+Except
+to the extent provided under clause 2.3, the licence granted to any Affiliates of the Licensee under this clause 2.1 shall, automatically
+terminate when such entity ceases to be an Affiliate of the Licensee, and all sub-licences granted by such entity shall also automatically
+terminate.
+
+Nothing
+herein shall limit or impair the Licensor’s rights to prosecute or maintain any claim against any Affiliate with respect
+to activities, events or transactions occurring prior to the time when such entity became an Affiliate of the Licensee.
+
+The
+Licensee remains liable for the acts and/or omissions of any of its Affiliates, or any third party who is granted a sublicence
+under this Agreement.
+
+2.2In
+relation to clause 2.1(a), Licensor and any Lotus Group Company (including the Licensor)
+shall not use by itself or allow other third parties to use the Part A Trademarks in
+relation to Lifestyle Vehicles in the Territory in respect of the good and services covered
+by the Part A Trademarks except as permitted under any distribution agreement (if any)
+or other agreement(s) to which the Licensee (or its Affiliates) affords a Group Lotus
+company such rights.
+
+2.3Subject
+to clause 4.4, on expiry of the Term (unless terminated earlier under clause 9), the
+licences granted at clause 2.1 above shall expire but the Licensee (or its Affiliates)
+shall be granted a non-exclusive and sub-licensable licence for a period of ten (10)
+years (or such longer term as required by Applicable Laws in the Territory to maintain
+after-sale service) from the date of the last vehicle manufactured (or has manufactured
+by third party) by Licensee (or its Affiliates) pursuant to this Agreement is sold to
+the extent necessary for providing after-sale service for the Lifestyle Vehicles manufactured
+or sold under this Licence.
+
+2.4Schedule
+1 will be updated on the annual basis.
+
+2.5The
+exclusive licence granted at clause 2(a) of the Part A Trademark Licence is subject to
+any existing licences already granted to third parties as at the date of this Agreement.
+
+2.6Subject
+to the terms of this Agreement, the Licensor hereby agrees to grant to Licensee and to
+all Affiliates of Licensee and the Licensee agrees to accept, a non-exclusive sub- licensable
+licence to use those Licensed Trademarks set out in Part B to schedule 1 showing “Hong
+Kong” in the “country” column (“Part
+B Licensed Trademarks”) for promotional activities in the Territory
+in those classes (and individual specification of goods and services registered for each
+class) covered by those Licensed Trade Marks (the “Part
+B Trade Mark Licence”) but the Licensee (or its Affiliates) is prohibited
+from using the Part B Licensed Trademarks for
+any other purpose (including for the avoidance of doubt not for use on Lifestyle Vehicles,
+goods or services (including after-sales parts and merchandise) or motorsport. The Licensee
+agrees and acknowledges that such use would conflict with activities carried out by a
+Lotus Group Company. For the purposes of this clause 2.6, “promotional activities”
+shall mean “marketing or public relations activities intended to engage with potential
+customers and/or increase brand awareness”.
+
+2.7In
+the event the Licensee or its Affiliate intends to or has agreed to sub-license any of
+the Licensed Trademarks to a third party that is not the Licensee’s Affiliate,
+if such sub-license is not within the ordinary course of business of the Licensee or
+its Affiliate and the Licensee or its Affiliate is entitled to a licensee fee for such
+third party’s use of the Licensed Trademarks (“Sub-Licence”),
+the Parties shall, in the Lotus Global Committee, agree a reasonable split
+of revenue for such Sub-licence, based upon the type of opportunity and the contribution
+of each Party and shall enter into a separate agreement regarding Licensee’s or
+its Affiliate’s additional payment to Licensor for such Sub-Licence (if any). The
+terms of any sub-licence to be granted by the Licensee shall not conflict with the material
+terms of this Agreement and (where appropriate) shall require the sub-licensee to comply
+with any brand guidelines agreed in the Lotus Global Committee.
+
+2.8Each
+Party agrees not to do, and the Licensee shall ensure that its Affiliates or sublicensees will not do anything or cause anything
+to be done that weakens or damages the Licensed Trademarks. The Licensee further agrees not to (and will ensure that its Affiliates
+or sublicensees will not, register a trade mark that is identical or similar to a trade mark already registered by the Licensor,
+without the Licensor’s prior written consent. For the purposes of this Agreement “similar” shall mean either:
+
+(a)a
+trade mark that contains the LOTUS wordmark, any LOTUS roundel or the ACBC mark;
+
+(b)the
+name of any vehicle (or proposed name for a vehicle) that has been applied for or registered
+by the Licensor; or
+
+(c)any
+other trade mark which is or has previously been registered by the Licensor or is used
+as a slogan/strapline by the Licensor and is explicitly listed in Schedule 5, except
+for those discussed and agreed by the Lotus Global Committee.
+
+in
+an identical or different class, where the Lotus Global Committee determines that the marks are visually, orally or conceptually
+similar (based upon an overall impression given by the marks and bearing in mind
+their distinctive and dominant components) and would lead to a likelihood of confusion or would likely take unfair advantage of
+or be detrimental to the Licensor or the Licensed Trademarks.
+
+2.9Where
+a material breach of clause 2.8 occurs, the Lotus Global Committee will determine the steps that should be taken to remedy the
+breach, and, if not capable of being rectified, determine whether the licence granted to an Affiliate or third party should be
+terminated.
+
+3.LOTUS
+GLOBAL COMMITTEE
+
+3.1The
+Parties agree that, upon the execution of this Agreement, they shall establish a committee
+(the “Lotus Global Committee”) as set out in schedule 3, whose structure, function, governance, mechanism, powers
+and authorities shall be approved by LGIL’s board of directors. Upon its establishment, both parties will discuss the matters
+to be discussed and approved in this Lotus Global Committee.
+
+4.LICENCE
+FEE
+
+4.1The
+Licence Fee for the licences to be granted under this Agreement is £724,700.
+
+4.2Payment
+of the Licence Fee shall be achieved by the Licensor or a Lotus Group Company nominated by the Licensor being issued with 150,101
+ordinary shares (the “Consideration Shares”) of the Licensee’s parent, Lotus Cayman, representing a 0.07% shareholding.
+The issue of shares should take place after the initial subscription but before the ‘Pre-A round’ of investment when
+the Consideration Shares are valued at £724,700, and in any event before 31 December 2021 (“Long Stop Date”).
+
+4.3The
+Licensor (or its nominee), Lotus Cayman, and other shareholders of Lotus Cayman intend
+to enter into a shareholders’ agreement in relation to the Licensor’s (or
+its nominee’s) shareholding in Lotus Cayman (“Shareholders’ Agreement”)
+on terms acceptable to the Licensor (or its nominee) acting reasonably and in good faith.
+The Licensee shall procure that Lotus Cayman enters into the Shareholders’ Agreement.
+
+4.4In
+the event that the Licensor (or its nominee) does not receive the Consideration Shares
+in accordance with Clause 4.2, this Agreement and all licenses granted under it (including
+any licences or sublicences granted to Affiliates or third parties) will terminate with
+immediate effect unless the Licensee pays the Licence Fee to the Licensor within thirty
+(30) days of the Long Stop Date.
+
+4.5With
+the exception of any tax payable by the Licensor to the UK tax authorities, the Licensee
+shall be solely responsible for all taxes and duties which may be levied by any governmental
+authority in any jurisdiction as a result of the licences and sublicences granted under
+this Agreement, including, but not limited to, for the avoidance of doubt, any withholding
+or other tax levied by the Hong Kong or Chinese tax authorities.
+
+5.LICENCE
+TERM
+
+5.1Subject
+to clauses 2.3 and 9, the Agreement shall be effective from the Effective Date, and shall
+continue to be effective during the Term (as defined in clause 2.1). For the avoidance
+of doubt, after expiry of the Term, this Agreement shall continue to the minimum extent
+and period necessary to provide the limited non-exclusive licence for after sales service
+required by any Applicable Laws referred to in clause 2.3.
+
+6.MAINTENANCE
+OF THE LICENSED TRADEMARKS
+
+6.1The
+Licensor shall pay the agreed renewal fees in due time. As part of the budgeting process
+each year, the Licensor shall provide the full list of the Licensed Trademarks that are
+to be renewed together with any known forecasted fees and costs to be incurred in that
+relevant year and by December of every year for the following year, the Licensor shall
+provide a full list of Licensed Trademarks with insertion of updated information.
+
+6.2Subject
+to clauses 6.4 and 6.5, the Licensor shall be responsible for the registration and renewing
+of the Licensed Trademarks in accordance with clause 6.1 provided that the Licensee shall
+pay its share of the cost of registration and/or renewal of a Licensed Trademark to the
+Licensor within 60 days of an invoice provided to the Licensee. The Licensor shall provide
+the details of fees for the Licensee’s confirmation before it issues the invoice.
+The Licensee will bear the cost as follows:
+
+(a)100%
+of costs if only Lifestyle Vehicles and not Sports Cars are present in the Territory.
+
+(b)50%
+of costs if both Lifestyle Vehicles and Sports Cars are present in the Territory.
+
+The
+Licensor shall be responsible for 100% of the costs of renewal and registration if neither Party’s products are present
+or only Sports Cars and not Lifestyle Cars are present in the Territory.
+
+6.3For
+protecting the Licensed Trademarks to the benefit of both Parties, if the Licensor is
+aware of any actions taken by any third party trying to cancel the registration of any
+Licensed Trademarks in whole or in part in the Territory, the Licensor shall use commercially
+reasonable endeavours to protect the validity and registration of the relevant Licensed
+Trademarks and the Licensee shall be responsible for providing evidence of use of the
+Licensed Trademarks and providing such evidence to the Licensor on an annual basis. Where
+the Licensee fails to provide evidence of use, the Licensor shall not be responsible
+for any invalidation or cancellation of a Licensed Trademark or reduction of the goods
+and services in a class for the Licensed Trademark.
+
+6.4If
+the Licensee wishes to register any marks that are not the Part A Licensed Trademarks
+or Part B Licensed Trademarks but are deemed similar (as defined in clause 2.8 above)
+and therefore would conflict with the Licensor’s trademarks, the Lotus Global Committee
+shall decide whether the Licensor should make such registration in the Licensor’s
+name. In such event, the Licensee shall reimburse the Licensor for all costs involved
+in making a new application in the proportions specified in clauses 6.2 above payable
+within 60 days of an invoice being provided by the Licensor. The Licensor shall have
+no liability in the event that a new trade mark is not granted. Where the Licensee wishes
+to register a trade mark that the Lotus Global Committee agrees is not identical or similar
+to a Licensor trade mark, it shall register in the Licensee’s name and at the sole
+cost of the Licensee.
+
+6.5Should
+the Licensee wish to use the Licensed Trademarks on goods and services in different categories
+where Licensed Trademarks have not been registered in the Territory, the applications
+shall be discussed and agreed in the Lotus Global Committee. Subject to direction of
+the Lotus Global Committee and agreement by the Parties, the Licensor shall make the
+new applications and own the trade mark and the trademark licence granted to the Licensee
+as agreed in this Agreement will extend to the use of such relevant marks, but the Licensee
+shall reimburse the Licensor for all costs involved in making a new application in the
+proportions specified in clauses 6.2 and 6.3 above payable within 60 days of an invoice
+provided to the Licensee by the Licensor. The Licensor shall have no liability in the
+event that a new trade mark is not granted.
+
+6.6If
+either Party becomes aware of any actual, threatened or suspected infringement (such
+as misuse or misappropriation) of Licensed Trademarks in the Territory by any third party
+or against any third party’s rights, it shall promptly inform the other Party of
+such infringement. Parties will discuss and work together to take commercially reasonable
+actions to protect and defend the legal ownership and beneficial interest of the Licensed
+Trademarks, including but not limited to:
+
+a.procure
+the right for Licensee (or its Affiliates) to continue using the relevant part of the
+Licensed Trademarks in the Territory;
+
+b.make
+or procure such alterations, modifications, adjustments or substitutions to all or any
+part or parts of the Licensed Trademarks so that they become non-infringing in the Territory.
+
+c.Where
+possible substitute with a non-infringing version of the infringing item of equivalent;
+or
+
+d.Take
+such other reasonable action as the Parties deem necessary and appropriate.
+
+6.7The
+Parties agree that from the date of this Agreement the costs of any litigation or settling
+any litigation in in the Territory, including but not limited to any actions brought
+against the Licensor in respect of the Licensed Trademarks, or the defence of any Licensed
+Trademarks or any settlement with a third party or success fee payable to legal counsel
+will paid by the Parties in accordance with the criteria agreed in clauses 6.2 and 6.3.
+
+6.8For
+the purposes of this clause 6, the email address for notifying the Licensor is Legal@lotuscars.com
+and the email address for notifying the Licensee is peng.fu@lotuscars.com.cn. Where the
+Licensor receives a “watch notification” from its trade mark attorneys concerning
+a Part A Licensed Trademarks or a Part B Licensed Trademarks in the Territory, it shall
+either forward a copy of that watch notification to the email address above, or request
+that the watch notification is sent directly to the Licensee’s email. Unless the
+Licensee provides instructions that a new application from a third party should be opposed
+(in the Territory) within five (5) days of receiving the watch notification (or within
+24 hours where the deadline to oppose is shorter than five (5) days), the Licensor shall
+at its own discretion decide whether or not to oppose that trade mark application.
+
+6.9The
+Licensee will (and shall ensure that its Affiliates and any third party granted a sublicence
+in accordance with this Agreement will) provide assistance to the Licensor in protecting
+and defending the legal ownership and beneficial interest of the Licensed Trademarks.
+
+6.9ANotwithstanding
+clause 6.6, where a court injuncts that the use of a Licensed Trade Mark infringes
+third party rights, the Licensee (or its Affiliates) shall immediately stop using and exploiting such Licensed Trademarks (and
+shall be responsible for ensuring that its sublicensees stop using and exploiting such Licensed Trademarks) as required by the
+court. In addition, the Parties shall discuss and agree an appropriate course of action in the Lotus Global Committee where there
+is a significant threat of infringement of third party rights and take appropriate action to minimise harm to either Party.
+
+6.9BFor
+the purpose of but without limiting clause 6.6, the Licensor hereby informs the Licensee
+that use of the Licensed Trademarks in the country(s) in relation to the goods and/or services specified in schedule 2 may infringe
+third party rights and therefore the Parties shall discuss with each other to take commercially reasonable actions so that each
+Party can use the affected Part A Licensed Trademarks and Part B Licensed Trademarks in the Territory in accordance with this
+Agreement as soon as possible.
+
+6.10The
+Licensee indemnifies (and holds harmless) the Licensor against all costs (including professional
+costs), losses, claims, fines and judgment arising from Licensee’s or its Affiliates’
+use of the Licensed Trademarks (or any third party or Affiliate that the Licensee permits
+to use the Licensed Trademark) which breaches the Part A Trademark License or the Part
+B Trademark Licence or any other part of this Agreement, provided that the indemnity
+under this clause 6.10 shall not apply in respect of any costs (including professional
+costs), losses, claims, fines and judgment that would be subject to the indemnity by
+the Licensee in favour of the Licensor under clause 14.1.
+
+6.11The
+Licensor indemnifies (and holds harmless) the Licensee against all costs (including professional
+costs), losses, claims, fines and judgment arising from Licensee’s or its Affiliates’
+use of the Part A Licensed Trademarks and Part B Licensed Trademarks (or any third party
+that the Licensee permits to use the same in accordance with this Agreement) in the Territory
+or the Licensor, where there is no breach of the Part A Trademark License or the Part
+B Trademark Licence or any other part of this Agreement by the Licensee or its Affiliates
+(or the third party), provided that the indemnity under this clause 6.11 shall not apply
+in respect of any costs (including professional costs), losses, claims, fines and judgment
+that would be subject to the indemnity by the Licensor in favour of the Licensee under
+clause 14.1.
+
+6.12Notwithstanding
+any obligations on the Licensor to maintain any Licensed Trademarks, in the event that
+the Licensee does not pay any sums under this Agreement when they become due, the Licensors
+shall be entitled (without liability) to suspend payment of any renewals until such time
+as payment is received.
+
+6.13The
+Licensee shall ensure that its Affiliates comply with all the obligations of the Licensee’s
+and the Affiliates’ obligations under this Agreement and the Licensee shall indemnify
+the Licensor for all costs (including professional costs), losses, claims, fines and
+judgment arising from any non-compliance by the Licensee or its Affiliates.
+
+7.REPRESENTATIONS
+AND WARRANTIES
+
+Each
+Party hereto represents and warrants that:
+
+(a)it
+is duly incorporated and validly existing under the laws of its country of incorporation
+and it has the full power and authority to enter into this Agreement and perform its
+obligations hereunder;
+
+(b)all
+necessary and required corporate approvals, consents and confirmations have been obtained
+by it to enter into this Agreement and perform its obligations hereunder;
+
+(c)the
+execution and delivery of this Agreement will not contravene or constitute a default
+under its constitution, memorandum and articles of association or any other agreements,
+instruments or other form of commitment to which it is bound;
+
+(d)no
+previous consent or approval of any authority, court, governmental body or agency or
+of any other person or entity unless otherwise provided herein will be required
+in order to make this Agreement fully enforceable against each Party in accordance with its terms;
+
+8.FORCE
+MAJEURE
+
+8.1If
+a Party is prevented by any Force Majeure Event from performing its obligations specified in this Agreement, the time to perform
+such obligations by that Party affected shall be extended until the Force Majeure Event ceasing to exist. With the exception of
+the obligation to pay the Licence Fee, any non-performance or delay performance by the Party caused by the Force Majeure Event
+shall not be deemed breach of this Agreement.
+
+8.2Upon
+the occurrence of any Force Majeure Event, the Party affected shall promptly notify the other Party, providing details of the
+event and reasons for which its obligations under this Agreement cannot be performed. The Party affected shall try its best efforts
+to perform its obligations and to minimize the losses caused to the Company and the other Party.
+
+9.TERMINATION
+
+9.1Without
+affecting any other right or remedy available to it, either Party may terminate this Agreement (and the licences granted under
+this Agreement) with immediate effect by giving written notice to the other Party if:
+
+(a)the
+other Party commits a material breach of any term of this agreement and (if such breach
+is remediable) fails to remedy that breach within a period of 30 days after being notified
+in writing to do so by the other Party. For the purposes of this Clause 9.1(a), only
+a breach (and non-remedy) of the following provisions of this Agreement shall be deemed
+as material:
+
+(i)clause
+2.1;
+
+(ii)clause
+2.3;
+
+(iii)clause
+4.4;
+
+(b)the
+other Party shall have a receiver appointed of its undertaking or assets or shall go
+into liquidation or shall enter into any arrangement with its creditors or shall cease
+or threaten to cease to carry on its business;
+
+(c)if
+the Licensor’s Majority Shareholders as a whole no longer have the power to directly
+or indirectly instruct and control the management of the Licensor. For the purpose of
+this clause 9.1(c), “control” means that Licensor’s Majority Shareholders,
+beneficially own directly or indirectly more than 50% of the voting power or other equity
+interests of the Licensor or has the power directly or indirectly to appoint a majority
+of the members of the board of directors or similar governing body of the Licensor.
+
+(d)Lotus
+Cayman commits a material breach of any term of the Shareholders’ Agreement and
+(if such breach is remediable) fails to remedy that breach within a period of 30 days
+after being notified in writing to do so by the other party;
+
+(e)LGIL
+does not received the Consideration Shares by 31 December 2021 or the License Fee in
+breach of clause 4.
+
+9.2Any
+provision of this Agreement that expressly or by implication is intended to come into
+or continue in force on or after termination or expiry of this Agreement, including clauses 2.3, 4, 6, 9, 10, 11, 12, 13 and
+14, shall remain in full force and effect.
+
+9.3Upon
+termination, all licences (and sub-licences) granted under this Agreement will cease
+except for the limited non-exclusive licence to comply with Applicable Law in relation
+to after sales service as granted at clause 2.3.
+
+10.CONFIDENTIALITY
+
+10.1Unless
+prior written consent is obtained, each Party shall not publish or disclose the terms
+and conditions of this Agreement and other Confidential Information of the other Party,
+except for the information:
+
+(a)which
+is at the relevant time within the public domain (otherwise than by reason of its wrongful
+disclosure);
+
+(b)which
+is required to be disclosed by law, any regulatory authorities, or the listing requirements
+of the stock exchange or an order of a court of competent jurisdiction to which any Party
+is subject to;
+
+(c)where
+such information was lawfully available to that Party on a non-confidential basis from
+a source other than any of the Parties prior to any disclosure thereof by any of the
+Parties, as evidenced by competent proof thereof,
+
+(d)which
+the Licensor is required to provide in order to register the licences granted under this
+Agreement with any trade mark registry in the Territory in order to protect its rights.
+
+If
+the recipient of the Confidential Information becomes required, in circumstances contemplated by Clauses 10.1 (b) and (c) and
+(d) above to disclose any information, the recipient shall (save to the extent prohibited by law) give to the disclosing Party
+such notice as is practical and legally permissible in the circumstances of such disclosure and shall consult and co-operate with
+the disclosing Party, regarding the content, timing and manner of any such disclosure.
+
+10.2Each
+Party may only disclose the Confidential Information of the other Party to its officers,
+employees and advisors on a need to know basis. The receiving party undertakes to ensure
+that all persons and bodies to whom that Party discloses any Confidential Information
+aremade aware,
+prior to disclosure, of the confidential nature of such information and that they owe
+a duty of confidence to the disclosing Party and to use all reasonable endeavours to
+ensure that such persons and bodies comply with the provisions of this Clause 9.
+
+11.NOTICES
+
+11.1Method of Delivery
+
+Any notice or other communication to be given under or
+in respect of this Agreement shall be in writing and may be delivered, given or sent by registered post or reputable signed for
+courier with a copy sent by electronic mail to the address specified in clause 11.2 below.
+
+11.2Address
+
+Any notice or other communication to be given under or in
+respect of this Agreement shall be sent to the addressee at its address and marked for the attention of the person or officer of the
+addressee, as set out below, or at such other address, or marked for the attention of such other person or officer as the addressee may
+give notice of to the other Party from time to time:
+
+To Licensor:
+
+******
+
+To Licensee:
+
+Address:
+LOTUS ADVANCED TECHNOLOGY LIMITED
+
+******
+
+12.GENERAL
+PROVISIONS
+
+12.1Entire
+agreement
+
+This
+Agreement and the Shareholders’ Agreement represent the whole and only agreement between the Parties in relation to the
+grant of licensing of the Licensed Trademarks in the Territory and supersedes any previous agreement (whether written or oral)
+between all or any of the Parties in relation to the granting of the licence in the Territory.
+
+12.2Assignment
+
+Unless
+otherwise stipulated in this Agreement, a Party must not transfer, assign, create an interest in or deal in any other way with
+any of its rights under this Agreement without the prior written consent of the other Parties.
+
+12.3Variation
+
+No
+variation of this Agreement shall be effective unless in writing and signed by or on behalf of each of the Parties.
+
+12.4Further
+assurances
+
+The
+Parties agree to perform (or procure the performance of) all further acts and things, and execute and deliver (or procure the
+execution and delivery of) such further documents, as may be required to implement or give effect to this Agreement.
+
+12.5Costs
+
+Each
+Party shall be responsible for its own expenses incurred in connection with the negotiation, preparation and implementation of
+this Agreement.
+
+12.6Severability
+
+(a)If
+any provision of this Agreement is held by a court of competent jurisdiction to be illegal,
+invalid or unenforceable in any respect under the law of any jurisdiction, then such
+provision shall (so far as it is invalid or unenforceable) be given no effect and shall
+be deemed not to be included in this Agreement but without invalidating any of the remaining
+provisions of this Agreement.
+
+(b)The
+Parties shall then use all reasonable endeavours to replace the invalid or unenforceable
+provision by a valid and enforceable substitute provision the effect of which is as close
+as possible to the intended effect of the invalid or unenforceable provision.
+
+12.7Counterparts
+
+This
+Agreement may be executed in several counterparts (whether original or PDF (portable document file) file counterparts, it being
+agreed that delivery of an executed counterpart of the execution page of this Agreement by PDF file shall be effective as delivery
+of a manually executed counterpart of this Agreement) and upon due execution and delivery of all such counterparts by one or more
+parties (so that each party has executed at least one counterpart), each counterpart shall be deemed to be an original of this
+Agreement but all the counterparts shall together constitute one and the same instrument.
+
+12.8This
+Agreement does not give rise to any rights for a third party to enforce any term of this Agreement.
+For the avoidance of doubt, no agreement of an Affiliate or third party is required to amend the terms of this Agreement in accordance
+with clause 12.3.
+
+13GOVERNING
+LAW AND DISPUTE RESOLUTION
+
+13.1Governing
+law
+
+This
+Agreement shall be governed by and construed in accordance with the laws of England and Wales, without giving effect to any conflict
+of laws principles which might require or lead to application of the laws of a different jurisdiction.
+
+13.2Dispute
+Resolution
+
+(a)If
+any dispute arises under or in connection with this Agreement between the Parties, the
+Parties shall make a good faith effort to resolve the dispute before taking any legal
+action.
+
+(b)Any
+dispute, controversy or claim between
+the Parties arising out of or in connection with this Agreement, including any question
+regarding its existence, validity or termination (“Dispute”),
+shall be referred to and finally resolved by arbitration administered by Hong
+Kong International Arbitration Centre (“HKIAC”)
+under the HKIAC Administered Arbitration Rules in force when the Notice of
+Arbitration is submitted. The seat of arbitration shall be Hong Kong. The language of
+arbitration shall be English and the number of arbitrators shall be three (or otherwise
+agreed by the Parties).
+
+(c)Any
+award of the arbitrator or arbitral tribunal will be final, conclusive and binding upon
+the Parties. Judgment on the award rendered by such arbitrators may be entered in any
+court having jurisdiction thereof.
+
+14PRODUCT
+LIABILITY
+
+14.1Each
+Party (“Indemnifying
+Party”) shall
+indemnify the other (“Indemnified Party”) against all liabilities,
+costs, expenses, damages and losses (including but not limited to any direct losses and
+legal costs (calculated on a full indemnity basis) and all other reasonable professional
+costs and expenses) suffered or incurred by the Indemnified Party arising out of or in
+connection with (i) any product liability claim relating to products manufactured, supplied
+or put into use by the Indemnifying Party or any sub-licensee pursuant to this Agreement
+or (ii) any claim made against the Indemnified Party by a third party for death, personal
+injury or damage to property arising out of or in connection with any such products that
+are defective.
+
+[The
+rest of this page has been intentionally left blank]
+
+SCHEDULE 1: LICENSED TRADEMARKS
+
+[***]
+
+SCHEDULE 2: LICENSED TRADEMARKS
+SUBJECT TO INFRINGEMENT CLAIM (CLAUSE 6.10)
+
+[***]
+
+SCHEDULE 3: LOTUS GLOBAL COMMITTEE
+
+[***]
+
+SCHEDULE 4: ADDITIONAL AFFILIATE OF THE LICENSEE
+
+[***]
+
+SCHEDULE 5: SIMILAR REGISTERED TRADE MAKRS AND UNREGISTERED STRAPLINES/SLOGANS
+
+[***]
+
+IN
+WITNESS WHEREOF the Parties hereto have hereunto
+set their hands and seals the day and year first above-written.
+
+Signed
+for and on behalf of
+Group Lotus Limited
+(Company No.: 00606189)/s/
+FENG Qingfeng
+
+Signatory
+
+Name:
+
+Signed
+for and on behalf of
+
+LOTUS
+ADVANCED TECHNOLOGY LIMITED
+/s/ FENG Qingfeng
+
+Signatory
+
+Name:

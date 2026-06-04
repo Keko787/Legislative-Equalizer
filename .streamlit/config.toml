@@ -1,0 +1,28 @@
+[global]
+# Streamlit Cloud configuration
+
+[server]
+# Server configuration for cloud deployment
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+# Browser configuration
+gatherUsageStats = false
+
+[theme]
+# Theme configuration for better appearance
+primaryColor = "#3b82f6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8fafc"
+textColor = "#1f2937"
+font = "sans serif"
+
+[runner]
+# Performance optimization
+magicEnabled = true
+
+[client]
+# Client configuration
+showErrorDetails = true

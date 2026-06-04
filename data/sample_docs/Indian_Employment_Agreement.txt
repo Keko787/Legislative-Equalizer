@@ -1,0 +1,88 @@
+EMPLOYMENT AGREEMENT
+(Under Indian Labour Laws)
+
+This Employment Agreement is entered into on [DATE] between TechCorp Solutions Private Limited, a company incorporated under the Companies Act, 2013 ("Company") and [EMPLOYEE NAME] ("Employee").
+
+1. APPOINTMENT AND POSITION
+The Company hereby employs the Employee as Senior Software Developer in the Technology Department at the Company's office in Bangalore, Karnataka, India.
+
+2. TERMS OF EMPLOYMENT
+2.1 The employment shall commence on [START DATE] and shall continue until terminated in accordance with the terms of this Agreement.
+2.2 The Employee shall work Monday to Friday, 9:00 AM to 6:00 PM (45 hours per week) as per the Karnataka Shops and Establishments Act, 1961.
+2.3 Probation Period: The first 6 months shall constitute a probationary period during which either party may terminate this Agreement with 15 days' written notice.
+
+3. REMUNERATION AND BENEFITS
+3.1 Basic Salary: Rs. 8,00,000 per annum
+3.2 House Rent Allowance: Rs. 3,20,000 per annum
+3.3 Special Allowance: Rs. 1,80,000 per annum
+3.4 Total Annual CTC: Rs. 12,00,000
+3.5 Provident Fund: Company shall contribute 12% of basic salary to EPF as per Employees' Provident Fund Act, 1952
+3.6 Employee State Insurance: As applicable under ESI Act, 1948
+
+4. LEAVE ENTITLEMENTS
+4.1 Annual Leave: 21 days per calendar year
+4.2 Sick Leave: 12 days per calendar year as per Factories Act, 1948
+4.3 Casual Leave: 12 days per calendar year
+4.4 Maternity Leave: As per Maternity Benefit Act, 2017 (26 weeks)
+4.5 Paternity Leave: 15 days as per company policy
+
+5. DUTIES AND RESPONSIBILITIES
+5.1 Develop and maintain software applications using Java and Python
+5.2 Participate in code reviews and maintain coding standards
+5.3 Collaborate with cross-functional teams
+5.4 Maintain confidentiality of proprietary information
+5.5 Comply with all company policies and Indian labour regulations
+
+6. CONFIDENTIALITY AND NON-DISCLOSURE
+6.1 The Employee shall not disclose any confidential information, trade secrets, or proprietary data of the Company during or after employment.
+6.2 This obligation shall survive termination for a period of 3 years.
+6.3 Violation may result in legal action under the Indian Contract Act, 1872.
+
+7. INTELLECTUAL PROPERTY
+7.1 All work products, inventions, and intellectual property created during employment shall belong to the Company.
+7.2 Employee agrees to assign all rights, title, and interest to the Company.
+7.3 This clause is governed by the Copyright Act, 1957 and Patents Act, 1970.
+
+8. TERMINATION
+8.1 Notice Period: Either party may terminate this Agreement with 60 days' written notice after probation.
+8.2 Summary Dismissal: Company may terminate immediately for misconduct, breach of confidentiality, or violation of company policies.
+8.3 Resignation: Employee must provide 60 days' notice and complete all pending assignments.
+8.4 Final Settlement: All dues shall be settled as per Payment of Wages Act, 1936.
+
+9. NON-COMPETE AND NON-SOLICITATION
+9.1 For 12 months post-termination, Employee shall not work for direct competitors in Bangalore region.
+9.2 Employee shall not solicit Company clients or employees for 18 months.
+9.3 Enforceability subject to Indian Contract Act, 1872 and judicial interpretation.
+
+10. GRIEVANCE REDRESSAL
+10.1 Any workplace issues shall first be addressed through internal grievance mechanism.
+10.2 Sexual harassment complaints shall be handled as per POSH Act, 2013.
+10.3 Labour disputes may be referred to Labour Commissioner, Karnataka.
+
+11. COMPLIANCE WITH LABOUR LAWS
+11.1 This Agreement is subject to:
+- Industrial Disputes Act, 1947
+- Minimum Wages Act, 1948
+- Contract Labour Act, 1970
+- Equal Remuneration Act, 1976
+- Karnataka Labour Laws
+
+12. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by Indian laws and subject to exclusive jurisdiction of courts in Bangalore, Karnataka.
+
+13. ENTIRE AGREEMENT
+This constitutes the entire agreement and supersedes all prior negotiations, representations, or agreements.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement on the date first written above.
+
+COMPANY:                           EMPLOYEE:
+TechCorp Solutions Pvt. Ltd.      [Employee Signature]
+
+By: _____________________          Name: ________________
+[Authorized Signatory]             Date: ________________
+Designation: HR Director
+Date: _______________
+
+Witnesses:
+1. _____________________
+2. _____________________

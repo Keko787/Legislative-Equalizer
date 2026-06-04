@@ -1,0 +1,27 @@
+# Streamlit Cloud optimized requirements
+# Minimal dependencies to avoid Python 3.13 compatibility issues
+
+# Core Streamlit and Web Framework
+streamlit>=1.28.0
+
+# LangChain and AI Framework (essential only)
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-google-genai>=0.0.6
+
+# Document Processing
+pypdf>=3.17.0
+
+# Utilities
+python-dotenv>=1.0.0
+typing-extensions>=4.9.0
+
+# Data Processing (minimal)
+numpy>=1.24.0
+
+# Core dependencies
+pydantic>=2.0.0
+requests>=2.31.0
+
+# Note: Heavy dependencies like sentence-transformers and torch are excluded
+# The app will use SimpleVectorStore fallback for cloud deployment

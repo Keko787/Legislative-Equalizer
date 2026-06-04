@@ -1,0 +1,58 @@
+Source: SEC EDGAR exhibits, UK / English-law governed contracts (HTML exhibits converted to plain text)
+
+All six contracts are real, publicly filed executed agreements whose governing-law
+clause was verified to specify English law or the laws of England and Wales.
+
+file				Contract type		Parties						Words	~Pages
+services_agreement.txt		Master Services		BioFocus DPI Ltd (UK) / Diabesity Inc. (US)	 7,272	  18
+license_agreement.txt		Trademark License	Group Lotus Ltd (UK) / Lotus Advanced Technology 6,377	  16
+facility_agreement.txt		Ship Finance Facility	Astra Maritime / Serenity Shipping / DVB Bank SE /
+				(LMA-style)		Emporiki Bank / NORD/LB				35,420	  89
+supply_agreement.txt		Master Supply		Ascot Environmental / UK Capital Ventures /
+							Waste2Energy Group PLC et al.			17,455	  44
+share_purchase_agreement.txt	Share Purchase (SPA)	N Beta S.àr.l. / Cabot Corporation / Norit N.V.	31,728	  79
+settlement_agreement.txt	Settlement / Deed	Enviri Corp / Harsco Metals Group Ltd (UK) /
+							A. R. Mitchell Jr.				 8,501	  21
+
+Governing-law clauses (verified in-text):
+
+services_agreement.txt
+  "governed by the laws of England and Wales and subject to the exclusive
+   jurisdiction of the competent courts in England"
+
+license_agreement.txt
+  "This Agreement shall be governed by and construed in accordance with
+   the laws of England and Wales, without giving effect to any conflict of
+   laws principles..."
+
+facility_agreement.txt
+  "This Agreement is governed by and shall be construed in accordance with
+   English law."
+
+supply_agreement.txt
+  "Agreement is governed by and is to be construed in accordance with the
+   laws of England and Wales."
+
+share_purchase_agreement.txt
+  "This Agreement ... shall be governed by, and construed in accordance
+   with, English law." (exclusive jurisdiction: courts of England)
+
+settlement_agreement.txt
+  "This UK Agreement ... shall be governed by and construed in accordance
+   with English law and the parties shall submit to the exclusive
+   jurisdiction of the courts of England and Wales"
+
+Source URLs (SEC EDGAR):
+
+services_agreement.txt
+  https://www.sec.gov/Archives/edgar/data/1424151/000107878216002990/f8k061416_ex10z2.htm
+license_agreement.txt
+  https://www.sec.gov/Archives/edgar/data/1962746/000110465923109358/tm236957d17_ex10-14.htm
+facility_agreement.txt
+  https://www.sec.gov/Archives/edgar/data/1333172/000119312512152972/d330492dex101.htm
+supply_agreement.txt
+  https://www.sec.gov/Archives/edgar/data/1432244/000110465910027598/a10-9899_1ex10d1.htm
+share_purchase_agreement.txt
+  https://www.sec.gov/Archives/edgar/data/16040/000119312512337722/d354905dex101.htm
+settlement_agreement.txt
+  https://www.sec.gov/Archives/edgar/data/45876/000004587623000042/exhibit102settlementagreem.htm
